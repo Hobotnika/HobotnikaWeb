@@ -25,8 +25,8 @@ export default function Hero() {
           </h1>
           
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 leading-relaxed">
-            Like an octopus with multiple arms working in perfect harmony, we deliver 
-            multi-faceted digital marketing strategies that adapt to your business needs globally
+            We deliver comprehensive digital marketing strategies that adapt to your 
+            business needs and drive measurable growth in global markets
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

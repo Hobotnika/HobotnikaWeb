@@ -69,8 +69,8 @@ export default function Services() {
             Our Services
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Like an octopus with multiple specialized arms, we offer comprehensive digital marketing 
-            services tailored for businesses worldwide ready to grow.
+            We offer comprehensive digital marketing services with specialized expertise 
+            tailored for businesses worldwide ready to scale and grow.
           </p>
         </div>
 
@@ -114,10 +114,13 @@ export default function Services() {
                 <Button 
                   className="w-full"
                   variant={service.popular ? "default" : "outline"}
-                  onClick={() => handleServiceInquiry(service.title)}
+                  onClick={() => {
+                    const contactSection = document.getElementById('contact');
+                    contactSection?.scrollIntoView({ behavior: 'smooth' });
+                  }}
                   data-testid={`button-inquire-${index}`}
                 >
-                  Learn More
+                  Get Started
                 </Button>
               </CardContent>
             </Card>

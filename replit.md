@@ -2,7 +2,7 @@
 
 ## Overview
 
-Hobotnika OÜ is a digital marketing consultancy website built as a React-based single-page application. The project showcases a professional B2B marketing consultancy with an octopus-themed brand identity, targeting global business clients. The website features modern design principles with a focus on conversions and user engagement through clean layouts, professional typography, and strategic call-to-action placement.
+Hobotnika OÜ is a digital marketing consultancy website built as a React-based single-page application. The project showcases a professional B2B marketing consultancy targeting global business clients. The website features modern design principles with a focus on conversions and user engagement through clean layouts, professional typography, and strategic call-to-action placement.
 
 ## User Preferences
 

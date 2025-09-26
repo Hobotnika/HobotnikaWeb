@@ -5,7 +5,7 @@ const features = [
   {
     icon: Brain,
     title: "Intelligent Strategy",
-    description: "Like an octopus adapting to its environment, we create flexible strategies that evolve with your market and goals."
+    description: "We create flexible, data-driven strategies that evolve with your market dynamics and business goals."
   },
   {
     icon: Users,
@@ -14,7 +14,7 @@ const features = [
   },
   {
     icon: Target,
-    title: "Multi-Armed Approach",
+    title: "Integrated Approach",
     description: "Simultaneous execution across SEO, social media, content marketing, and paid advertising for maximum impact."
   },
   {
@@ -33,8 +33,8 @@ export default function About() {
             About Hobotnika
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We are a global digital marketing consultancy that combines the intelligence 
-            and adaptability of an octopus with the professionalism and reliability that 
+            We are a global digital marketing consultancy that combines strategic intelligence 
+            and adaptive expertise with the professionalism and reliability that 
             businesses worldwide demand.
           </p>
         </div>
@@ -96,7 +96,7 @@ export default function About() {
               </p>
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Vision</h4>
               <p className="text-card-foreground">
-                To be the world's most trusted digital marketing consultancy, known for our octopus-like adaptability and commitment to client success.
+                To be the world's most trusted digital marketing consultancy, known for our strategic adaptability and unwavering commitment to client success.
               </p>
             </div>
           </div>
