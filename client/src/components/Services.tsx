@@ -140,6 +140,10 @@ export default function Services() {
             <Button 
               size="lg"
               className="bg-chart-3 hover:bg-chart-3/90 text-primary"
+              onClick={() => {
+                const contactSection = document.getElementById('contact');
+                contactSection?.scrollIntoView({ behavior: 'smooth' });
+              }}
               data-testid="button-free-consultation"
             >
               Get Free Consultation
