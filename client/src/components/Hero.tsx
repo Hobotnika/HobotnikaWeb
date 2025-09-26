@@ -49,20 +49,22 @@ export default function Hero() {
           </div>
           
           {/* Trust indicators */}
-          <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-            <p className="text-primary-foreground/70 text-sm mb-4">Trusted by businesses worldwide</p>
-            <div className="flex justify-center items-center space-x-8 text-primary-foreground/60">
-              <div className="text-center">
-                <div className="text-2xl font-bold">100+</div>
-                <div className="text-sm">Projects</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold">12+</div>
-                <div className="text-sm">Years Experience</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold">24/7</div>
-                <div className="text-sm">Support</div>
+          <div className="mt-12 pt-8 border-t border-primary-foreground/30">
+            <p className="text-primary-foreground/90 text-sm mb-6 font-medium">Trusted by businesses worldwide</p>
+            <div className="bg-primary-foreground/10 backdrop-blur-sm rounded-lg px-8 py-6 border border-primary-foreground/20">
+              <div className="flex justify-center items-center space-x-12 text-primary-foreground">
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-primary-foreground">100+</div>
+                  <div className="text-sm text-primary-foreground/90 font-medium">Projects</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-primary-foreground">12+</div>
+                  <div className="text-sm text-primary-foreground/90 font-medium">Years Experience</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-3xl font-bold text-primary-foreground">24/7</div>
+                  <div className="text-sm text-primary-foreground/90 font-medium">Support</div>
+                </div>
               </div>
             </div>
           </div>
