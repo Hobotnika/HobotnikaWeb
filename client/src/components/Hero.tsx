@@ -1,4 +1,5 @@
 import { Button } from "@/components/ui/button";
+import heroBackground from "@assets/stock_images/abstract_geometric_c_5e31a318.jpg";
 
 export default function Hero() {
   const scrollToContact = () => {
@@ -13,8 +14,13 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Clean gradient background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-primary via-primary/95 to-primary/80" />
+      {/* Professional background image */}
+      <div 
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: `url(${heroBackground})` }}
+      />
+      {/* Subtle overlay to ensure text readability while maintaining professional look */}
+      <div className="absolute inset-0 bg-gradient-to-br from-primary/85 via-primary/80 to-primary/75" />
       
       {/* Content */}
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
