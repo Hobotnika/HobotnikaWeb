@@ -90,29 +90,14 @@ export default function About() {
             </div>
             
             <div className="bg-muted/50 rounded-lg p-6">
-              <h4 className="text-lg font-semibold text-foreground mb-4">Company Information</h4>
-              <div className="space-y-3 text-sm">
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">Founded:</span>
-                  <span className="text-foreground font-medium">2019</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">Headquarters:</span>
-                  <span className="text-foreground font-medium">Global</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">Time Zones:</span>
-                  <span className="text-foreground font-medium">Worldwide</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">Languages:</span>
-                  <span className="text-foreground font-medium">Multi-lingual</span>
-                </div>
-                <div className="flex justify-between">
-                  <span className="text-muted-foreground">Support:</span>
-                  <span className="text-foreground font-medium">24/7 Available</span>
-                </div>
-              </div>
+              <h4 className="text-lg font-semibold text-foreground mb-4">Our Mission</h4>
+              <p className="text-card-foreground mb-6">
+                To empower businesses worldwide with intelligent, adaptive digital marketing strategies that evolve with their growth and market demands.
+              </p>
+              <h4 className="text-lg font-semibold text-foreground mb-4">Our Vision</h4>
+              <p className="text-card-foreground">
+                To be the world's most trusted digital marketing consultancy, known for our octopus-like adaptability and commitment to client success.
+              </p>
             </div>
           </div>
         </div>

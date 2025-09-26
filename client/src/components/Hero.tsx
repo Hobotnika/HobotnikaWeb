@@ -60,12 +60,12 @@ export default function Hero() {
             <p className="text-primary-foreground/70 text-sm mb-4">Trusted by businesses worldwide</p>
             <div className="flex justify-center items-center space-x-8 text-primary-foreground/60">
               <div className="text-center">
-                <div className="text-2xl font-bold">50+</div>
+                <div className="text-2xl font-bold">100+</div>
                 <div className="text-sm">Projects</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold">5+</div>
-                <div className="text-sm">Years</div>
+                <div className="text-2xl font-bold">12+</div>
+                <div className="text-sm">Years Experience</div>
               </div>
               <div className="text-center">
                 <div className="text-2xl font-bold">24/7</div>

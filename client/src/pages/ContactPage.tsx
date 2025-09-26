@@ -7,7 +7,7 @@ export default function ContactPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Contact Us</h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
-            Ready to start your digital marketing journey? Let's discuss how we can 
+            Ready to start your growth journey? Let's discuss how we can 
             help your business reach new heights globally.
           </p>
         </div>

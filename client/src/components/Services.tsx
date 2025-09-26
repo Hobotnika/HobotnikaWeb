@@ -142,13 +142,6 @@ export default function Services() {
             >
               Get Free Consultation
             </Button>
-            <Button 
-              size="lg"
-              variant="outline"
-              data-testid="button-view-portfolio"
-            >
-              View Our Portfolio
-            </Button>
           </div>
         </div>
       </div>

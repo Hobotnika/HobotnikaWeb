@@ -25,7 +25,7 @@ const contactInfo = [
     icon: MapPin,
     label: "Global Reach",
     value: "Worldwide Service",
-    subvalue: "Remote & On-site Available"
+    subvalue: "Remote Service Worldwide"
   },
   {
     icon: Phone,
@@ -97,7 +97,7 @@ export default function Contact() {
             Contact Us
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Ready to start your digital marketing journey? Get in touch with our team 
+            Ready to start your growth journey? Get in touch with our team 
             of experts and let's discuss how we can help your business grow globally.
           </p>
         </div>
@@ -139,7 +139,7 @@ export default function Contact() {
                 </div>
                 <div className="flex items-center space-x-2">
                   <Badge variant="outline" className="text-xs">Proven Results</Badge>
-                  <span className="text-sm text-muted-foreground">50+ successful projects</span>
+                  <span className="text-sm text-muted-foreground">100+ successful projects</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Badge variant="outline" className="text-xs">Fast Response</Badge>
