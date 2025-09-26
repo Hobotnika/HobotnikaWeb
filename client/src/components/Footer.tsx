@@ -85,7 +85,7 @@ export default function Footer() {
                   24/7 Support
                 </Badge>
                 <Badge variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground">
-                  Est. 2019
+                  Est. 2023
                 </Badge>
               </div>
             </div>
