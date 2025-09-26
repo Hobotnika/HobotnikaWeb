@@ -9,8 +9,8 @@ const features = [
   },
   {
     icon: Users,
-    title: "Estonian Heritage",
-    description: "Deep understanding of Estonian business culture and digital landscape, combined with international best practices."
+    title: "Global Expertise",
+    description: "Deep understanding of international business culture and digital landscapes, combined with global best practices."
   },
   {
     icon: Target,
@@ -20,7 +20,7 @@ const features = [
   {
     icon: Award,
     title: "Proven Results",
-    description: "Track record of helping Estonian businesses grow their digital presence and achieve measurable results."
+    description: "Track record of helping businesses worldwide grow their digital presence and achieve measurable results."
   }
 ];
 
@@ -33,9 +33,9 @@ export default function About() {
             About Hobotnika OÜ
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We are an Estonian digital marketing consultancy that combines the intelligence 
+            We are a global digital marketing consultancy that combines the intelligence 
             and adaptability of an octopus with the professionalism and reliability that 
-            Estonian businesses demand.
+            businesses worldwide demand.
           </p>
         </div>
 
@@ -65,7 +65,7 @@ export default function About() {
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Local Expertise:</strong> We understand Estonian market dynamics and business culture
+                    <strong>Global Expertise:</strong> We understand international market dynamics and business culture
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
@@ -97,20 +97,20 @@ export default function About() {
                   <span className="text-foreground font-medium">2019</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Location:</span>
-                  <span className="text-foreground font-medium">Tallinn, Estonia</span>
+                  <span className="text-muted-foreground">Headquarters:</span>
+                  <span className="text-foreground font-medium">Global</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Registry Code:</span>
-                  <span className="text-foreground font-medium">14567890</span>
+                  <span className="text-muted-foreground">Time Zones:</span>
+                  <span className="text-foreground font-medium">Worldwide</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">VAT Number:</span>
-                  <span className="text-foreground font-medium">EE101234567</span>
+                  <span className="text-muted-foreground">Languages:</span>
+                  <span className="text-foreground font-medium">Multi-lingual</span>
                 </div>
                 <div className="flex justify-between">
-                  <span className="text-muted-foreground">Certification:</span>
-                  <span className="text-foreground font-medium">Google Partner</span>
+                  <span className="text-muted-foreground">Support:</span>
+                  <span className="text-foreground font-medium">24/7 Available</span>
                 </div>
               </div>
             </div>

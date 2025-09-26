@@ -18,38 +18,38 @@ const contactInfo = [
   {
     icon: Building,
     label: "Company",
-    value: "Hobotnika OÜ",
-    subvalue: "Estonian Digital Marketing Consultancy"
+    value: "Hobotnika",
+    subvalue: "Global Digital Marketing Consultancy"
   },
   {
     icon: MapPin,
-    label: "Address",
-    value: "Narva mnt 7, 10117",
-    subvalue: "Tallinn, Estonia"
+    label: "Global Reach",
+    value: "Worldwide Service",
+    subvalue: "Remote & On-site Available"
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+372 5123 4567",
-    subvalue: "Estonian business hours"
+    value: "+1 (555) 123-4567",
+    subvalue: "24/7 global support"
   },
   {
     icon: Mail,
     label: "Email",
-    value: "info@hobotnika.ee",
+    value: "info@hobotnika.com",
     subvalue: "Response within 24 hours"
   },
   {
     icon: Clock,
     label: "Hours",
-    value: "Mon-Fri 9:00-17:00",
-    subvalue: "EET (UTC+2)"
+    value: "24/7 Available",
+    subvalue: "All time zones covered"
   },
   {
     icon: Globe,
     label: "Languages",
-    value: "Estonian, English",
-    subvalue: "Russian available"
+    value: "Multi-lingual",
+    subvalue: "Major languages supported"
   }
 ];
 
@@ -98,7 +98,7 @@ export default function Contact() {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Ready to start your digital marketing journey? Get in touch with our team 
-            of experts and let's discuss how we can help your Estonian business grow.
+            of experts and let's discuss how we can help your business grow globally.
           </p>
         </div>
 
@@ -134,8 +134,8 @@ export default function Contact() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-2">
-                  <Badge variant="outline" className="text-xs">Local Expertise</Badge>
-                  <span className="text-sm text-muted-foreground">Estonian market knowledge</span>
+                  <Badge variant="outline" className="text-xs">Global Expertise</Badge>
+                  <span className="text-sm text-muted-foreground">International market knowledge</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Badge variant="outline" className="text-xs">Proven Results</Badge>

@@ -57,32 +57,32 @@ export default function Footer() {
                 <div className="w-8 h-8 bg-primary-foreground rounded-full flex items-center justify-center">
                   <span className="text-primary font-bold text-lg">H</span>
                 </div>
-                <span className="font-bold text-xl">Hobotnika OÜ</span>
+                <span className="font-bold text-xl">Hobotnika</span>
               </div>
               
               <p className="text-primary-foreground/80 mb-6 leading-relaxed">
-                Estonian digital marketing consultancy delivering intelligent, 
-                adaptive solutions for business growth.
+                Global digital marketing consultancy delivering intelligent, 
+                adaptive solutions for business growth worldwide.
               </p>
               
               <div className="space-y-3 text-sm">
                 <div className="flex items-center space-x-2">
                   <MapPin className="w-4 h-4 text-chart-3" />
-                  <span>Tallinn, Estonia</span>
+                  <span>Global Service</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Phone className="w-4 h-4 text-chart-3" />
-                  <span>+372 5123 4567</span>
+                  <span>+1 (555) 123-4567</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-chart-3" />
-                  <span>info@hobotnika.ee</span>
+                  <span>info@hobotnika.com</span>
                 </div>
               </div>
               
               <div className="flex space-x-2 mt-6">
                 <Badge variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground">
-                  Google Partner
+                  24/7 Support
                 </Badge>
                 <Badge variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground">
                   Est. 2019
@@ -178,7 +178,7 @@ export default function Footer() {
         <div className="border-t border-primary-foreground/20 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-primary-foreground/70">
-              © {currentYear} Hobotnika OÜ. All rights reserved. | Registry Code: 14567890 | VAT: EE101234567
+              © {currentYear} Hobotnika. All rights reserved.
             </div>
             
             <div className="flex items-center space-x-6 text-sm">
@@ -192,16 +192,9 @@ export default function Footer() {
                   Terms
                 </span>
               </Link>
-              <a 
-                href="https://www.rik.ee" 
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-primary-foreground/70 hover:text-chart-3 transition-colors flex items-center space-x-1 hover-elevate"
-                data-testid="link-estonian-registry"
-              >
-                <span>Estonian Business Registry</span>
-                <ExternalLink className="w-3 h-3" />
-              </a>
+              <span className="text-primary-foreground/70">
+                Global Service
+              </span>
             </div>
           </div>
         </div>

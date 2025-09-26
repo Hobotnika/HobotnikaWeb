@@ -8,7 +8,7 @@ export default function ServicesPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Our Services</h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
             Comprehensive digital marketing solutions designed specifically 
-            for Estonian businesses ready to grow and succeed online.
+            for businesses worldwide ready to grow and succeed online.
           </p>
         </div>
       </div>

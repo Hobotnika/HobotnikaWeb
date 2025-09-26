@@ -8,7 +8,7 @@ export default function ContactPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Contact Us</h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
             Ready to start your digital marketing journey? Let's discuss how we can 
-            help your Estonian business reach new heights.
+            help your business reach new heights globally.
           </p>
         </div>
       </div>

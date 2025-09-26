@@ -15,28 +15,28 @@ const services = [
   {
     icon: Search,
     title: "SEO Optimization",
-    description: "Comprehensive search engine optimization to improve your visibility in Estonian and international markets.",
+    description: "Comprehensive search engine optimization to improve your visibility in global markets.",
     features: ["Keyword Research", "Technical SEO", "Content Optimization", "Local SEO"],
     popular: false
   },
   {
     icon: Share2,
     title: "Social Media Marketing",
-    description: "Strategic social media presence that engages your Estonian audience across all major platforms.",
+    description: "Strategic social media presence that engages your global audience across all major platforms.",
     features: ["Content Strategy", "Community Management", "Paid Social Ads", "Analytics & Reporting"],
     popular: true
   },
   {
     icon: PenTool,
     title: "Content Marketing",
-    description: "High-quality content creation in Estonian and English that drives engagement and conversions.",
+    description: "High-quality content creation in multiple languages that drives engagement and conversions.",
     features: ["Blog Writing", "Video Content", "Graphic Design", "Brand Storytelling"],
     popular: false
   },
   {
     icon: TrendingUp,
     title: "Google Ads Management",
-    description: "Targeted advertising campaigns that maximize ROI and reach your ideal Estonian customers.",
+    description: "Targeted advertising campaigns that maximize ROI and reach your ideal global customers.",
     features: ["Campaign Setup", "Keyword Bidding", "Ad Copy Creation", "Performance Optimization"],
     popular: false
   },
@@ -50,7 +50,7 @@ const services = [
   {
     icon: Megaphone,
     title: "Digital Strategy Consulting",
-    description: "Strategic guidance to align your digital marketing with Estonian business objectives and market opportunities.",
+    description: "Strategic guidance to align your digital marketing with global business objectives and market opportunities.",
     features: ["Market Analysis", "Competitor Research", "Strategy Development", "Implementation Planning"],
     popular: false
   }
@@ -71,7 +71,7 @@ export default function Services() {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Like an octopus with multiple specialized arms, we offer comprehensive digital marketing 
-            services tailored for Estonian businesses ready to grow.
+            services tailored for businesses worldwide ready to grow.
           </p>
         </div>
 
@@ -131,8 +131,8 @@ export default function Services() {
             Ready to Grow Your Business?
           </h3>
           <p className="text-muted-foreground mb-6 max-w-2xl mx-auto">
-            Let's discuss how our multi-faceted approach can help your Estonian business 
-            reach new heights in the digital landscape.
+            Let's discuss how our multi-faceted approach can help your business 
+            reach new heights in the global digital landscape.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 

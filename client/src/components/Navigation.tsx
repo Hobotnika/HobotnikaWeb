@@ -24,7 +24,7 @@ export default function Navigation() {
               <div className="w-8 h-8 bg-primary-foreground rounded-full flex items-center justify-center">
                 <span className="text-primary font-bold text-lg">H</span>
               </div>
-              <span className="font-bold text-xl">Hobotnika OÜ</span>
+              <span className="font-bold text-xl">Hobotnika</span>
             </div>
           </Link>
 

@@ -31,7 +31,7 @@ export default function Hero() {
           
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 leading-relaxed">
             Like an octopus with multiple arms working in perfect harmony, we deliver 
-            multi-faceted digital marketing strategies that adapt to your business needs
+            multi-faceted digital marketing strategies that adapt to your business needs globally
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -57,7 +57,7 @@ export default function Hero() {
           
           {/* Trust indicators */}
           <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-            <p className="text-primary-foreground/70 text-sm mb-4">Trusted by Estonian businesses</p>
+            <p className="text-primary-foreground/70 text-sm mb-4">Trusted by businesses worldwide</p>
             <div className="flex justify-center items-center space-x-8 text-primary-foreground/60">
               <div className="text-center">
                 <div className="text-2xl font-bold">50+</div>
@@ -68,8 +68,8 @@ export default function Hero() {
                 <div className="text-sm">Years</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold">100%</div>
-                <div className="text-sm">Estonian</div>
+                <div className="text-2xl font-bold">24/7</div>
+                <div className="text-sm">Support</div>
               </div>
             </div>
           </div>
