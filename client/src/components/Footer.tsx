@@ -17,10 +17,6 @@ const footerLinks = {
   ],
   company: [
     { name: "About Us", href: "/about" },
-    { name: "Our Team", href: "/about#team" },
-    { name: "Case Studies", href: "/portfolio" },
-    { name: "Blog", href: "/blog" },
-    { name: "Careers", href: "/careers" },
     { name: "Contact", href: "/contact" }
   ],
   legal: [
