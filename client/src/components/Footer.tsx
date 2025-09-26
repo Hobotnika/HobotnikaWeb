@@ -69,10 +69,6 @@ export default function Footer() {
                   <span>Global Service</span>
                 </div>
                 <div className="flex items-center space-x-2">
-                  <Phone className="w-4 h-4 text-chart-3" />
-                  <span>+1 (555) 123-4567</span>
-                </div>
-                <div className="flex items-center space-x-2">
                   <Mail className="w-4 h-4 text-chart-3" />
                   <span>info@hobotnika.com</span>
                 </div>

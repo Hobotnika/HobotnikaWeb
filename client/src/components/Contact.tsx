@@ -28,12 +28,6 @@ const contactInfo = [
     subvalue: "Remote Service Worldwide"
   },
   {
-    icon: Phone,
-    label: "Phone",
-    value: "+1 (555) 123-4567",
-    subvalue: "24/7 global support"
-  },
-  {
     icon: Mail,
     label: "Email",
     value: "info@hobotnika.com",
