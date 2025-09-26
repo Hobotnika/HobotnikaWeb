@@ -7,14 +7,6 @@ import {
 } from "lucide-react";
 
 const footerLinks = {
-  services: [
-    { name: "SEO Optimization", href: "/services#seo" },
-    { name: "Social Media Marketing", href: "/services#social" },
-    { name: "Content Marketing", href: "/services#content" },
-    { name: "Google Ads Management", href: "/services#ads" },
-    { name: "Analytics & Reporting", href: "/services#analytics" },
-    { name: "Digital Strategy", href: "/services#strategy" }
-  ],
   company: [
     { name: "About Us", href: "/about" },
     { name: "Contact", href: "/contact" }
@@ -36,7 +28,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Main Footer Content */}
         <div className="py-16">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Company Information */}
             <div className="lg:col-span-1">
               <div className="mb-6">
@@ -69,24 +61,6 @@ export default function Footer() {
               </div>
             </div>
 
-            {/* Services */}
-            <div>
-              <h3 className="font-semibold text-lg mb-6">Services</h3>
-              <ul className="space-y-3">
-                {footerLinks.services.map((link, index) => (
-                  <li key={index}>
-                    <Link href={link.href}>
-                      <span 
-                        className="text-primary-foreground/80 hover:text-chart-3 transition-colors text-sm hover-elevate"
-                        data-testid={`link-footer-service-${index}`}
-                      >
-                        {link.name}
-                      </span>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
 
             {/* Company */}
             <div>
