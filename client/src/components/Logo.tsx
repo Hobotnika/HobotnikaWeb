@@ -21,11 +21,12 @@ export default function Logo({ className = "", showText = true, size = "md" }: L
 
   return (
     <div className={`flex items-center space-x-2 ${className}`}>
-      {/* Logo placeholder - replace with actual octopus logo when uploaded */}
-      <div className={`${logoSizes[size]} bg-primary-foreground rounded-full flex items-center justify-center`}>
-        {/* TODO: Replace this div with <img src="/path/to/octopus-logo.png" alt="Hobotnika Logo" /> */}
-        <span className="text-primary font-bold">{size === "sm" ? "H" : "H"}</span>
-      </div>
+      {/* Hobotnika octopus logo */}
+      <img 
+        src="/hobotnika_logo.png" 
+        alt="Hobotnika Logo" 
+        className={`${logoSizes[size]} object-contain`}
+      />
       
       {showText && (
         <span className={`font-bold ${textSizes[size]}`}>
