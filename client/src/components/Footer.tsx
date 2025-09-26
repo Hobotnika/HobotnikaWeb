@@ -1,6 +1,7 @@
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import Logo from "@/components/Logo";
 import { 
   MapPin, 
   Phone, 
@@ -53,11 +54,8 @@ export default function Footer() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Company Information */}
             <div className="lg:col-span-1">
-              <div className="flex items-center space-x-2 mb-6">
-                <div className="w-8 h-8 bg-primary-foreground rounded-full flex items-center justify-center">
-                  <span className="text-primary font-bold text-lg">H</span>
-                </div>
-                <span className="font-bold text-xl">Hobotnika</span>
+              <div className="mb-6">
+                <Logo className="text-primary-foreground" />
               </div>
               
               <p className="text-primary-foreground/80 mb-6 leading-relaxed">

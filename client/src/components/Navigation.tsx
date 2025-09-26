@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link, useLocation } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Menu, X } from "lucide-react";
+import Logo from "@/components/Logo";
 
 const navItems = [
   { name: "Home", path: "/" },
@@ -20,12 +21,7 @@ export default function Navigation() {
         <div className="flex items-center justify-between h-16">
           {/* Logo placeholder */}
           <Link href="/" data-testid="link-home">
-            <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-primary-foreground rounded-full flex items-center justify-center">
-                <span className="text-primary font-bold text-lg">H</span>
-              </div>
-              <span className="font-bold text-xl">Hobotnika</span>
-            </div>
+            <Logo className="text-primary-foreground" />
           </Link>
 
           {/* Desktop navigation */}
