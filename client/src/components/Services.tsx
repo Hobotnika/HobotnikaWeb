@@ -58,7 +58,6 @@ const services = [
 
 export default function Services() {
   const handleServiceInquiry = (serviceName: string) => {
-    console.log(`Inquiry for ${serviceName} service`);
     // TODO: Implement contact form with pre-selected service
   };
 

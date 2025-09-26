@@ -107,10 +107,8 @@ export default function Contact() {
     
     // Simulate API call
     setTimeout(() => {
-      console.log("Contact form submitted successfully");
       setIsSubmitting(false);
       setShowSuccess(true);
-      console.log("Success state set to true");
       
       // Clear form after successful submission
       setFormData({
@@ -121,11 +119,10 @@ export default function Contact() {
         message: ""
       });
 
-      // Hide success message after 8 seconds (longer for testing)
+      // Hide success message after 5 seconds
       setTimeout(() => {
         setShowSuccess(false);
-        console.log("Success message hidden");
-      }, 8000);
+      }, 5000);
     }, 1000);
   };
 
