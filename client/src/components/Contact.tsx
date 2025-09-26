@@ -18,7 +18,7 @@ const contactInfo = [
   {
     icon: Building,
     label: "Company",
-    value: "Hobotnika",
+    value: "Hobotnika OÜ",
     subvalue: "Global Digital Marketing Consultancy"
   },
   {
@@ -130,7 +130,7 @@ export default function Contact() {
             {/* Why Choose Us */}
             <Card>
               <CardHeader>
-                <CardTitle>Why Estonian Businesses Choose Us</CardTitle>
+                <CardTitle>Why Businesses Work With Us</CardTitle>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-2">
