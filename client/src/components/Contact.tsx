@@ -11,7 +11,8 @@ import {
   Clock,
   MessageSquare,
   Building,
-  Globe
+  Globe,
+  CheckCircle
 } from "lucide-react";
 
 const contactInfo = [
@@ -57,22 +58,61 @@ export default function Contact() {
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const [errors, setErrors] = useState<Record<string, string>>({});
+  const [showSuccess, setShowSuccess] = useState(false);
 
   const handleInputChange = (field: string, value: string) => {
     setFormData(prev => ({ ...prev, [field]: value }));
+    // Clear error when user starts typing
+    if (errors[field]) {
+      setErrors(prev => ({ ...prev, [field]: "" }));
+    }
+  };
+
+  const validateEmail = (email: string) => {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  };
+
+  const validateForm = () => {
+    const newErrors: Record<string, string> = {};
+
+    // Required field validation
+    if (!formData.name.trim()) {
+      newErrors.name = "Name is required";
+    }
+
+    if (!formData.email.trim()) {
+      newErrors.email = "Email is required";
+    } else if (!validateEmail(formData.email)) {
+      newErrors.email = "Please enter a valid email address";
+    }
+
+    if (!formData.message.trim()) {
+      newErrors.message = "Message is required";
+    }
+
+    setErrors(newErrors);
+    return Object.keys(newErrors).length === 0;
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    setIsSubmitting(true);
     
-    // TODO: Implement actual form submission
-    console.log("Contact form submitted:", formData);
+    if (!validateForm()) {
+      return;
+    }
+
+    setIsSubmitting(true);
     
     // Simulate API call
     setTimeout(() => {
+      console.log("Contact form submitted successfully");
       setIsSubmitting(false);
-      alert("Thank you for your inquiry! We'll get back to you within 24 hours.");
+      setShowSuccess(true);
+      console.log("Success state set to true");
+      
+      // Clear form after successful submission
       setFormData({
         name: "",
         email: "",
@@ -80,6 +120,12 @@ export default function Contact() {
         service: "",
         message: ""
       });
+
+      // Hide success message after 8 seconds (longer for testing)
+      setTimeout(() => {
+        setShowSuccess(false);
+        console.log("Success message hidden");
+      }, 8000);
     }, 1000);
   };
 
@@ -153,6 +199,22 @@ export default function Contact() {
               <CardTitle>Send Us a Message</CardTitle>
             </CardHeader>
             <CardContent>
+              {/* Success Message */}
+              {showSuccess && (
+                <div 
+                  className="mb-6 p-6 bg-green-100 dark:bg-green-900/30 border-2 border-green-300 dark:border-green-700 rounded-lg flex items-start space-x-4 shadow-md" 
+                  data-testid="success-message"
+                  role="alert"
+                  aria-live="polite"
+                >
+                  <CheckCircle className="w-6 h-6 text-green-600 dark:text-green-400 flex-shrink-0 mt-0.5" />
+                  <div>
+                    <h3 className="text-green-900 dark:text-green-200 font-semibold mb-1">Message Sent Successfully!</h3>
+                    <p className="text-green-800 dark:text-green-300 font-medium">Thank you! We've received your message and will respond within 24 hours.</p>
+                  </div>
+                </div>
+              )}
+
               <form onSubmit={handleSubmit} className="space-y-6">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   <div>
@@ -165,9 +227,14 @@ export default function Contact() {
                       value={formData.name}
                       onChange={(e) => handleInputChange("name", e.target.value)}
                       placeholder="Your full name"
-                      required
+                      className={errors.name ? "border-red-500" : ""}
                       data-testid="input-name"
                     />
+                    {errors.name && (
+                      <p className="text-red-500 text-sm mt-1" data-testid="error-name">
+                        {errors.name}
+                      </p>
+                    )}
                   </div>
                   <div>
                     <label htmlFor="email" className="block text-sm font-medium text-foreground mb-2">
@@ -179,9 +246,14 @@ export default function Contact() {
                       value={formData.email}
                       onChange={(e) => handleInputChange("email", e.target.value)}
                       placeholder="your@email.com"
-                      required
+                      className={errors.email ? "border-red-500" : ""}
                       data-testid="input-email"
                     />
+                    {errors.email && (
+                      <p className="text-red-500 text-sm mt-1" data-testid="error-email">
+                        {errors.email}
+                      </p>
+                    )}
                   </div>
                 </div>
 
@@ -222,10 +294,14 @@ export default function Contact() {
                     value={formData.message}
                     onChange={(e) => handleInputChange("message", e.target.value)}
                     placeholder="Tell us about your project and goals..."
-                    className="min-h-[120px]"
-                    required
+                    className={`min-h-[120px] ${errors.message ? "border-red-500" : ""}`}
                     data-testid="input-message"
                   />
+                  {errors.message && (
+                    <p className="text-red-500 text-sm mt-1" data-testid="error-message">
+                      {errors.message}
+                    </p>
+                  )}
                 </div>
 
                 <Button
