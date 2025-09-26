@@ -20,19 +20,10 @@ export default function Logo({ className = "", showText = true, size = "md" }: L
   };
 
   return (
-    <div className={`flex items-center space-x-2 ${className}`}>
-      {/* Hobotnika octopus logo */}
-      <img 
-        src="/hobotnika_logo.png" 
-        alt="Hobotnika Logo" 
-        className={`${logoSizes[size]} object-contain`}
-      />
-      
-      {showText && (
-        <span className={`font-bold ${textSizes[size]}`}>
-          Hobotnika
-        </span>
-      )}
+    <div className={`flex items-center ${className}`}>
+      <span className={`font-bold ${textSizes[size]}`}>
+        Hobotnika
+      </span>
     </div>
   );
 }
