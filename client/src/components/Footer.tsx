@@ -1,15 +1,9 @@
 import { Link } from "wouter";
-import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import Logo from "@/components/Logo";
 import { 
   MapPin, 
-  Phone, 
-  Mail, 
-  Linkedin, 
-  Facebook, 
-  Twitter,
-  ExternalLink
+  Mail
 } from "lucide-react";
 
 const footerLinks = {
@@ -37,11 +31,6 @@ const footerLinks = {
   ]
 };
 
-const socialLinks = [
-  { icon: Linkedin, href: "https://linkedin.com/company/hobotnika", label: "LinkedIn" },
-  { icon: Facebook, href: "https://facebook.com/hobotnika", label: "Facebook" },
-  { icon: Twitter, href: "https://twitter.com/hobotnika", label: "Twitter" }
-];
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -139,31 +128,6 @@ export default function Footer() {
                   </li>
                 ))}
               </ul>
-              
-              <div>
-                <h4 className="font-medium mb-3">Follow Us</h4>
-                <div className="flex space-x-3">
-                  {socialLinks.map((social, index) => (
-                    <Button
-                      key={index}
-                      variant="ghost"
-                      size="icon"
-                      asChild
-                      className="bg-primary-foreground/10 hover:bg-chart-3 hover:text-primary"
-                      data-testid={`button-social-${social.label.toLowerCase()}`}
-                    >
-                      <a 
-                        href={social.href} 
-                        target="_blank" 
-                        rel="noopener noreferrer"
-                        aria-label={social.label}
-                      >
-                        <social.icon className="w-4 h-4" />
-                      </a>
-                    </Button>
-                  ))}
-                </div>
-              </div>
             </div>
           </div>
         </div>

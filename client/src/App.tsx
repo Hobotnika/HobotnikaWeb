@@ -9,6 +9,10 @@ import Home from "@/pages/Home";
 import AboutPage from "@/pages/AboutPage";
 import ServicesPage from "@/pages/ServicesPage";
 import ContactPage from "@/pages/ContactPage";
+import PrivacyPage from "@/pages/PrivacyPage";
+import TermsPage from "@/pages/TermsPage";
+import CookiesPage from "@/pages/CookiesPage";
+import GdprPage from "@/pages/GdprPage";
 import NotFound from "@/pages/not-found";
 
 function Router() {
@@ -18,6 +22,10 @@ function Router() {
       <Route path="/about" component={AboutPage} />
       <Route path="/services" component={ServicesPage} />
       <Route path="/contact" component={ContactPage} />
+      <Route path="/privacy" component={PrivacyPage} />
+      <Route path="/terms" component={TermsPage} />
+      <Route path="/cookies" component={CookiesPage} />
+      <Route path="/gdpr" component={GdprPage} />
       {/* Fallback to 404 */}
       <Route component={NotFound} />
     </Switch>
