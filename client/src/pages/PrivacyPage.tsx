@@ -224,16 +224,28 @@ export default function PrivacyPage() {
                 </div>
 
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">6.2 No Advertising or Marketing Tracking</h3>
-                  <div className="bg-muted/30 p-4 rounded-lg">
-                    <p className="font-semibold mb-2">We explicitly do not engage in:</p>
-                    <ul className="list-disc pl-6 space-y-1 text-sm">
-                      <li>Cross-site tracking for advertising</li>
-                      <li>Behavioral advertising</li>
-                      <li>Data sales to third parties</li>
-                      <li>Remarketing campaigns</li>
-                      <li>Ad network participation</li>
-                    </ul>
+                  <h3 className="text-xl font-semibold mb-3">6.2 Our Website Analytics and Marketing</h3>
+                  
+                  <div className="space-y-4">
+                    <div className="bg-accent/10 p-4 rounded-lg">
+                      <h4 className="font-semibold text-accent mb-2">Google Analytics</h4>
+                      <p className="text-sm">We use Google Analytics to understand how visitors use our website so we can improve it and our marketing efforts.</p>
+                    </div>
+
+                    <div className="bg-muted/30 p-4 rounded-lg">
+                      <h4 className="font-semibold mb-2">Our Marketing</h4>
+                      <p className="text-sm">We may use Google services for our own business marketing, email management, and internal operations.</p>
+                    </div>
+
+                    <div className="bg-muted/30 p-4 rounded-lg">
+                      <h4 className="font-semibold mb-2">Data Usage</h4>
+                      <p className="text-sm mb-2">We don't:</p>
+                      <ul className="list-disc pl-6 space-y-1 text-sm">
+                        <li>Track visitors across other websites</li>
+                        <li>Sell visitor data to third parties</li>
+                        <li>Use tracking for purposes beyond improving our own website and marketing</li>
+                      </ul>
+                    </div>
                   </div>
                 </div>
 
