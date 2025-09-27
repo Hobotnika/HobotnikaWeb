@@ -8,7 +8,7 @@ export default function AboutPage() {
           <h1 className="text-4xl md:text-5xl font-bold mb-4">About Hobotnika</h1>
           <p className="text-xl text-primary-foreground/90 max-w-3xl mx-auto">
             Learn more about our journey, values, and the team behind the world's 
-            most adaptive digital marketing consultancy.
+            most adaptive strategic business consultancy.
           </p>
         </div>
       </div>
