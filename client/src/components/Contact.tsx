@@ -182,10 +182,6 @@ export default function Contact() {
                   <Badge variant="outline" className="text-xs">Fast Response</Badge>
                   <span className="text-sm text-muted-foreground">24-hour response time</span>
                 </div>
-                <div className="flex items-center space-x-2">
-                  <Badge variant="outline" className="text-xs">Transparent Pricing</Badge>
-                  <span className="text-sm text-muted-foreground">No hidden fees</span>
-                </div>
               </CardContent>
             </Card>
           </div>
