@@ -1,0 +1,380 @@
+# DATA PROTECTION AND PRIVACY
+## Your Rights Under GDPR
+
+**Effective Date:** January 1, 2025  
+**Last Updated:** January 1, 2025
+
+At Hobotnika OÜ, we are committed to protecting your personal data and respecting your privacy rights under the General Data Protection Regulation (GDPR) and Estonian data protection law. This page explains your rights and how we comply with data protection requirements.
+
+## 1. OUR COMMITMENT TO DATA PROTECTION
+
+Hobotnika OÜ takes data protection seriously. As an Estonian company serving global clients, we comply with:
+
+- General Data Protection Regulation (EU) 2016/679 (GDPR)
+- Estonian Personal Data Protection Act (PDPA)
+- International data protection standards
+- Industry best practices for data security
+
+We process personal data lawfully, fairly, and transparently, implementing appropriate measures to protect your information throughout its lifecycle.
+
+## 2. YOUR RIGHTS AS A DATA SUBJECT
+
+Under GDPR, you have comprehensive rights regarding your personal data:
+
+### 2.1 Right to Access (Article 15)
+You can request:
+- Confirmation of whether we process your personal data
+- A copy of your personal data we hold
+- Information about how we process it, including purposes, categories, recipients, retention periods, and your rights
+
+**How to exercise**: Submit a data access request via email to privacy@hobotnika.com with proof of identity.  
+**Timeline**: We respond within 30 days (extendable by 2 months for complex requests).
+
+### 2.2 Right to Rectification (Article 16)
+You can request correction of inaccurate personal data or completion of incomplete data.
+
+**How to exercise**: Contact us with specific corrections needed and supporting documentation if applicable.  
+**Timeline**: Corrections made without undue delay.
+
+### 2.3 Right to Erasure/"Right to be Forgotten" (Article 17)
+You can request deletion of your personal data when:
+- Data is no longer necessary for original purposes
+- You withdraw consent (where consent is the legal basis)
+- You object to processing and no overriding legitimate grounds exist
+- Data was unlawfully processed
+- Legal obligations require erasure
+
+**Exceptions**: We may retain data for legal claims, compliance obligations, or public interest purposes.
+
+### 2.4 Right to Restrict Processing (Article 18)
+You can request temporary suspension of processing while we:
+- Verify accuracy of contested data
+- Assess legitimate grounds following an objection
+- Establish, exercise, or defend legal claims
+
+### 2.5 Right to Data Portability (Article 20)
+For data processed based on consent or contract, you can:
+- Receive your data in a structured, machine-readable format
+- Request direct transfer to another controller (where technically feasible)
+
+**Scope**: Applies only to data you provided and automated processing.
+
+### 2.6 Right to Object (Article 21)
+You can object to processing based on:
+- **Legitimate interests**: We must stop unless we demonstrate compelling legitimate grounds
+- **Direct marketing**: Absolute right to object - we will stop immediately
+- **Statistical/research purposes**: Unless necessary for public interest tasks
+
+### 2.7 Rights Regarding Automated Decision-Making (Article 22)
+You have the right not to be subject to decisions based solely on automated processing that significantly affect you.
+
+**Our practice**: We do not currently use fully automated decision-making for significant decisions. Any profiling for business analysis includes human review.
+
+### 2.8 Right to Withdraw Consent
+Where we rely on consent, you can withdraw it anytime. Withdrawal doesn't affect the lawfulness of prior processing.
+
+**How to withdraw**: Use our preference center, email privacy@hobotnika.com, or click unsubscribe links in marketing emails.
+
+## 3. HOW WE PROCESS YOUR DATA
+
+### 3.1 Legal Bases for Processing
+We process personal data only with valid legal basis:
+
+**Contract Performance (Article 6(1)(b))**
+- Delivering consulting services
+- Managing client relationships
+- Processing payments and invoices
+- Fulfilling contractual obligations
+
+**Legitimate Interests (Article 6(1)(f))**
+- Business development and marketing to existing clients
+- Network security and fraud prevention
+- Internal administration and analysis
+- Improving our services
+
+We conduct Legitimate Interest Assessments to ensure our interests don't override your rights.
+
+**Legal Obligations (Article 6(1)(c))**
+- Tax and accounting requirements
+- Anti-money laundering compliance
+- Regulatory reporting
+- Court orders and legal proceedings
+
+**Consent (Article 6(1)(a))**
+- Marketing to prospects
+- Newsletter subscriptions
+- Cookie placement (non-essential)
+- Special category data processing
+
+**Vital Interests (Article 6(1)(d))**
+- Emergency situations only
+
+**Public Task (Article 6(1)(e))**
+- Not typically applicable to our operations
+
+### 3.2 Categories of Data We Process
+
+**Professional Information:**
+- Name, job title, company
+- Business contact details
+- Professional background
+- Areas of expertise
+
+**Communication Data:**
+- Email correspondence
+- Meeting notes
+- Consultation records
+- Feedback and evaluations
+
+**Technical Data:**
+- IP addresses
+- Browser information
+- Device identifiers
+- Usage analytics
+
+**Financial Data:**
+- Billing information
+- Payment records
+- Tax identifiers
+- Transaction history
+
+### 3.3 Data Sources
+- Directly from you
+- Your employer (for B2B services)
+- Public professional profiles (LinkedIn)
+- Business information databases
+- Website interactions
+
+## 4. INTERNATIONAL DATA TRANSFERS
+
+### 4.1 Transfer Mechanisms
+When transferring personal data outside the EEA, we ensure appropriate safeguards:
+
+**EU-US Data Privacy Framework**
+For US service providers certified under the DPF, providing adequate protection levels.
+
+**Standard Contractual Clauses (SCCs)**
+We use European Commission-approved SCCs (2021 version) for transfers to countries without adequacy decisions.
+
+**Adequacy Decisions**
+Transfers to countries the EU deems adequate:
+- Canada (commercial organizations)
+- United Kingdom (until 2025)
+- Argentina
+- Uruguay
+
+### 4.2 Transfer Impact Assessments
+Following Schrems II requirements, we:
+- Assess destination country laws
+- Evaluate government access risks
+- Implement supplementary measures when needed
+- Document our assessments
+
+### 4.3 Your Rights Regarding Transfers
+You can:
+- Request information about transfer safeguards
+- Obtain copies of SCCs (with commercial terms redacted)
+- Object to transfers based on legitimate interests
+
+## 5. DATA RETENTION
+
+We retain personal data only as long as necessary:
+
+| Data Category | Retention Period | Basis |
+|---------------|------------------|-------|
+| Client project data | 7 years after project completion | Tax and legal requirements |
+| Marketing contacts | Until opt-out + 3 years | Legitimate interests |
+| Employee data | 7 years post-employment | Labor law requirements |
+| Financial records | 7 years | Estonian accounting law |
+| Website analytics | 14 months | Performance analysis |
+| Security logs | 6 months | Security and compliance |
+| Cookies | See Cookie Policy | Varies by type |
+
+After retention periods expire, data is securely deleted or anonymized.
+
+## 6. DATA SECURITY
+
+### 6.1 Technical Measures
+- AES-256 encryption for data at rest
+- TLS 1.3 for data in transit
+- Multi-factor authentication
+- Regular security updates and patches
+- Intrusion detection systems
+- Regular penetration testing
+
+### 6.2 Organizational Measures
+- Access control on need-to-know basis
+- Confidentiality agreements for all staff
+- Regular security training
+- Incident response procedures
+- Vendor security assessments
+- Data protection by design and default
+
+### 6.3 Breach Response
+If a breach occurs:
+- We notify authorities within 72 hours (if required)
+- We inform affected individuals of high-risk breaches
+- We document all breaches internally
+- We implement measures to prevent recurrence
+
+## 7. DATA PROTECTION GOVERNANCE
+
+### 7.1 Accountability
+We demonstrate compliance through:
+- Comprehensive privacy policies
+- Records of processing activities
+- Data Protection Impact Assessments (DPIAs)
+- Regular compliance audits
+- Staff training programs
+- Privacy-by-design implementation
+
+### 7.2 Data Protection Contact
+While we don't currently require a formal DPO, we have designated privacy personnel:
+
+**Privacy Team**  
+Email: privacy@hobotnika.com  
+Phone: +351 933679097  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Response time: Within 5 business days for general inquiries
+
+### 7.3 Third-Party Processors
+We carefully select processors who:
+- Provide sufficient guarantees of compliance
+- Sign Data Processing Agreements
+- Allow audits and inspections
+- Implement appropriate security measures
+- Process data only on our instructions
+
+**Key processors include:**
+- Cloud hosting providers (AWS/Google Cloud)
+- Email service providers
+- Payment processors
+- Analytics providers
+- CRM systems
+
+## 8. SPECIFIC RIGHTS FOR EEA RESIDENTS
+
+### 8.1 Estonian Residents
+Additional protections under Estonian law:
+- Age of digital consent: 13 years
+- Language rights: Information available in Estonian
+- Local supervisory authority: Andmekaitse Inspektsioon
+- Enforcement through criminal misdemeanor procedures
+
+### 8.2 Cross-Border Complaints
+You can lodge complaints with:
+- Your local supervisory authority
+- Estonian Data Protection Inspectorate (as our lead authority)
+- Any relevant concerned authority
+
+One-stop-shop mechanism ensures coordinated response.
+
+## 9. CHILDREN'S PRIVACY
+
+- Our services are not directed at children under 13
+- We don't knowingly collect children's data
+- Parental consent required for any processing of minors' data
+- Special protections for educational or development services
+
+If you believe we've collected a child's data, contact us immediately for deletion.
+
+## 10. HOW TO EXERCISE YOUR RIGHTS
+
+### 10.1 Making a Request
+**Via Email**: privacy@hobotnika.com  
+**Via Post**: Narva mnt 5, 10117 Tallinn, Estonia  
+**Via Phone**: +351 933679097 (verification required)
+
+**Required Information:**
+- Your full name and contact details
+- Specific right(s) you're exercising
+- Information to locate your data
+- Preferred response format
+
+**Identity Verification:**
+We may request:
+- Government-issued ID (with sensitive data redacted)
+- Recent correspondence with us
+- Security question answers
+
+### 10.2 Response Timeline
+- **Acknowledgment**: Within 5 business days
+- **Response**: Within 30 days
+- **Complex requests**: Up to 2 additional months (with notification)
+- **Excessive requests**: May charge reasonable fee or refuse
+
+### 10.3 Complaints
+If you're unsatisfied with our response:
+
+**First**: Contact our Privacy Team for resolution
+
+**Second**: File a complaint with:
+Estonian Data Protection Inspectorate  
+Tatari 39, 10134 Tallinn, Estonia  
+Email: info@aki.ee  
+Phone: +372 627 4135  
+Website: www.aki.ee
+
+**Your Local Authority**: You may also complain to your local supervisory authority.
+
+## 11. MARKETING PREFERENCES
+
+### 11.1 Managing Marketing Communications
+**Opt-out Methods:**
+- Click "unsubscribe" in any marketing email
+- Email privacy@hobotnika.com
+- Call +351 933679097
+- Update preferences in your account settings
+
+**Processing Timeline**: Within 5 business days
+
+### 11.2 Types of Communications
+
+**Marketing**: Promotional content, newsletters, event invitations
+- Legal basis: Consent or legitimate interests
+- Frequency: Maximum 2 per month
+- Opt-out: Always available
+
+**Service Communications**: Account updates, security alerts, legal notices
+- Legal basis: Contract or legal obligation
+- Opt-out: Not available (essential communications)
+
+**Consultation Follow-ups**: Requested information, meeting summaries
+- Legal basis: Contract performance
+- Opt-out: Complete service first
+
+## 12. UPDATES TO PRIVACY PRACTICES
+
+We review our privacy practices regularly and update when:
+- Laws or regulations change
+- We introduce new services
+- We adopt new technologies
+- Industry standards evolve
+
+**Notification Methods:**
+- Website banner for material changes
+- Email to active clients
+- 30-day notice for significant changes
+
+**Version History**: Available at privacy@hobotnika.com upon request
+
+## 13. CONTACT US
+
+For all privacy-related matters:
+
+**Hobotnika OÜ**  
+Data Protection Team  
+Email: privacy@hobotnika.com  
+Phone: +351 933679097  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Registry Code: 16770728  
+Office Hours: Monday-Friday, 9:00-17:00 EET
+
+**Supervisory Authority:**  
+Andmekaitse Inspektsioon  
+Tatari 39, 10134 Tallinn, Estonia  
+info@aki.ee | www.aki.ee
+
+---
+
+© 2025 Hobotnika OÜ. All rights reserved.
