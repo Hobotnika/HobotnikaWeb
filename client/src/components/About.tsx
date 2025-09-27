@@ -34,7 +34,7 @@ export default function About() {
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             We are a professional consulting firm helping businesses optimize operations 
-            and achieve growth objectives through strategic guidance and 
+            and achieve growth objectives worldwide through strategic guidance and 
             proven methodologies.
           </p>
         </div>
@@ -92,7 +92,7 @@ export default function About() {
             <div className="bg-muted/50 rounded-lg p-6">
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Mission</h4>
               <p className="text-card-foreground mb-6">
-                To empower businesses with strategic guidance and business solutions that enhance operational effectiveness and drive sustainable growth.
+                To empower businesses worldwide with strategic guidance and business solutions that enhance operational effectiveness and drive sustainable growth.
               </p>
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Vision</h4>
               <p className="text-card-foreground">
