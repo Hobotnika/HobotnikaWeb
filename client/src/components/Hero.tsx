@@ -62,7 +62,7 @@ export default function Hero() {
                   <div className="text-sm text-primary-foreground/90 font-medium">Years Experience</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-foreground">99.8%</div>
+                  <div className="text-3xl font-bold text-primary-foreground">98.9%</div>
                   <div className="text-sm text-primary-foreground/90 font-medium">Client Satisfaction</div>
                 </div>
               </div>
