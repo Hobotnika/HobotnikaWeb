@@ -1,0 +1,231 @@
+# COOKIE POLICY
+## HOBOTNIKA OÜ
+
+**Effective Date:** January 1, 2025  
+**Last Updated:** January 1, 2025
+
+This Cookie Policy explains how Hobotnika OÜ ("Hobotnika," "we," "us," or "our") uses cookies and similar technologies on our website www.hobotnika.ee (the "Website"). This policy should be read together with our Privacy Policy.
+
+## 1. WHAT ARE COOKIES?
+
+Cookies are small text files placed on your device when you visit a website. They help websites remember your preferences, improve your experience, and provide analytics about how the site is used. Similar technologies include pixels, web beacons, and local storage.
+
+## 2. HOW WE USE COOKIES
+
+We use cookies to:
+- Ensure our website functions properly
+- Remember your preferences and settings
+- Analyze how visitors use our website to improve performance
+- Deliver targeted advertising and measure campaign effectiveness
+- Enable social media features and integration
+
+## 3. TYPES OF COOKIES WE USE
+
+### 3.1 Strictly Necessary Cookies
+These cookies are essential for website operation and cannot be disabled.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| Session_ID | Maintains user session | Session | Hobotnika |
+| Security_Token | CSRF protection | Session | Hobotnika |
+| Cookie_Consent | Records consent preferences | 12 months | Hobotnika |
+
+### 3.2 Functional Cookies
+These cookies remember your choices to provide enhanced features.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| Language_Pref | Language selection | 12 months | Hobotnika |
+| Region_Settings | Regional preferences | 6 months | Hobotnika |
+
+### 3.3 Analytics Cookies
+These cookies help us understand how visitors interact with our website.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| _ga | Identifies unique users | 2 years | Google Analytics |
+| ga[ID] | Maintains session state | 2 years | Google Analytics |
+| _gid | Identifies unique users | 24 hours | Google Analytics |
+
+### 3.4 Marketing Cookies
+These cookies track visitors across websites to display relevant advertisements.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| _gcl_au | Google Ads conversion tracking | 3 months | Google Ads |
+| _gcl_aw | Conversion tracking | 3 months | Google Ads |
+| _gcl_dc | DoubleClick remarketing | 3 months | Google |
+| ads/ga-audiences | Google Ads remarketing | Session | Google |
+
+## 4. GOOGLE SERVICES INTEGRATION
+
+### 4.1 Google Analytics 4
+We use Google Analytics 4 to analyze website usage. GA4 uses first-party cookies to:
+- Track user interactions and sessions
+- Generate statistical data about website usage
+- Help us improve website content and structure
+
+We have implemented:
+- IP anonymization
+- Data retention limited to 14 months
+- Google Signals disabled for cross-device tracking
+- No data sharing with Google for advertising purposes
+
+### 4.2 Google Consent Mode v2
+We implement Google Consent Mode v2 which adjusts how Google tags behave based on your consent choices:
+- Analytics Storage: Controls analytics cookies
+- Ad Storage: Controls advertising cookies
+- Ad User Data: Controls user data for ads
+- Ad Personalization: Controls personalized advertising
+
+### 4.3 Google Ads
+We use Google Ads for:
+- Conversion tracking to measure campaign effectiveness
+- Remarketing to show relevant ads on other websites
+- Audience insights to improve targeting
+
+You can opt out of Google Ads personalization at: https://adssettings.google.com
+
+## 5. YOUR CONSENT CHOICES
+
+### 5.1 Consent Management
+When you first visit our website, we ask for your consent before placing non-essential cookies. You can:
+- Accept all cookies
+- Reject all non-essential cookies
+- Customize your preferences by category
+- Withdraw consent at any time
+
+### 5.2 Managing Your Preferences
+You can manage cookie preferences through:
+- Our cookie consent banner (click the cookie icon in the footer)
+- Browser settings (see Section 6)
+- Third-party opt-out tools (see Section 7)
+
+### 5.3 Consequences of Refusing Cookies
+If you refuse cookies:
+- Strictly necessary cookies will still be used
+- Some website features may not function properly
+- We cannot remember your preferences
+- Analytics data will be limited
+- You will not see personalized advertisements
+
+## 6. BROWSER COOKIE CONTROLS
+
+Most browsers allow you to:
+- View what cookies are stored
+- Delete cookies individually or entirely
+- Block third-party cookies
+- Block all cookies
+- Set preferences for specific websites
+
+**Browser Instructions:**
+- Chrome: chrome://settings/cookies
+- Firefox: about:preferences#privacy
+- Safari: Preferences > Privacy
+- Edge: edge://settings/privacy
+- Opera: opera://settings/privacy
+
+Note: Blocking all cookies will prevent you from using many websites properly.
+
+## 7. THIRD-PARTY OPT-OUT MECHANISMS
+
+**Industry Tools:**
+- EU: Your Online Choices (www.youronlinechoices.eu)
+- US: NAI Opt-Out (optout.networkadvertising.org)
+- Global: DAA WebChoices (optout.aboutads.info)
+
+**Platform-Specific:**
+- Google: Privacy Controls (myaccount.google.com/data-and-privacy)
+- Facebook: Ad Preferences (www.facebook.com/ads/preferences)
+- LinkedIn: Ad Preferences (www.linkedin.com/psettings/advertising)
+
+**Browser Privacy Signals:**
+We honor Global Privacy Control (GPC) signals where legally required.
+
+## 8. INTERNATIONAL COMPLIANCE
+
+### 8.1 European Users
+For EU/EEA users, we comply with:
+- ePrivacy Directive 2002/58/EC
+- General Data Protection Regulation (GDPR)
+- Estonian Electronic Communications Act
+
+We obtain prior consent for all non-essential cookies and provide granular control options.
+
+### 8.2 UK Users
+For UK users, we comply with UK GDPR and PECR requiring consent for non-essential cookies.
+
+### 8.3 California Users
+For California residents under CCPA:
+- We provide "Do Not Sell My Personal Information" options
+- We honor opt-out preference signals
+- No sale of personal information through cookies without consent
+
+### 8.4 Other Jurisdictions
+We respect cookie preferences for users in all jurisdictions with privacy laws.
+
+## 9. COOKIES FROM THIRD PARTIES
+
+Some third-party services may set their own cookies:
+- Social media plugins (LinkedIn, Twitter)
+- Embedded content (YouTube videos)
+- Customer support tools (chat widgets)
+- Analytics services (heatmap tools)
+
+We do not control these third-party cookies. Please review their privacy policies:
+- Google: policies.google.com/privacy
+- LinkedIn: linkedin.com/legal/privacy-policy
+- YouTube: youtube.com/howyoutubeworks/our-commitments/protecting-user-data
+- Twitter: twitter.com/privacy
+
+## 10. DATA SECURITY AND RETENTION
+
+### 10.1 Security Measures
+We implement security measures for cookie data:
+- HTTPS encryption for all cookie transmission
+- Secure and HttpOnly flags where appropriate
+- SameSite attributes to prevent CSRF attacks
+- Regular security audits and updates
+
+### 10.2 Retention Periods
+Cookie retention varies by type:
+- Session cookies: Deleted when browser closes
+- Persistent cookies: Retained for specified duration (see Section 3)
+- Analytics data: Retained for 14 months
+- Marketing data: Retained for 12 months maximum
+
+## 11. CHILDREN'S PRIVACY
+
+Our website is not intended for children under 13 (Estonian age of digital consent). We do not knowingly collect cookie data from children. If you believe we have inadvertently collected such data, please contact us immediately.
+
+## 12. UPDATES TO THIS POLICY
+
+We may update this Cookie Policy periodically to reflect:
+- Changes in our cookie practices
+- New legal requirements
+- Technology updates
+- Business changes
+
+We will notify you of material changes through website notices or email. The "Last Updated" date shows when this policy was last revised.
+
+## 13. CONTACT INFORMATION
+
+For questions about our cookie practices or to exercise your rights:
+
+**Data Protection Contact:**  
+Hobotnika OÜ  
+Email: privacy@hobotnika.com  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Phone: +351 933679097
+
+**Estonian Supervisory Authority:**  
+Andmekaitse Inspektsioon (Estonian Data Protection Inspectorate)  
+Address: Tatari 39, 10134 Tallinn, Estonia  
+Email: info@aki.ee  
+Website: www.aki.ee
+
+## 14. COOKIE DECLARATION
+
+This section provides a comprehensive list of all cookies used on our website, updated quarterly through automated scanning. For the most current cookie information, please use our cookie consent tool.
+
+[This section would be automatically updated with current cookie scan results]
