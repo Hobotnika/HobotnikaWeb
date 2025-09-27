@@ -24,7 +24,7 @@ const services = [
     title: "Business Development",
     description: "Drive sustainable growth through market expansion, partnership development, and revenue optimization strategies.",
     features: ["Market Expansion", "Partnership Strategy", "Revenue Growth", "Competitive Positioning"],
-    popular: true
+    popular: false
   },
   {
     icon: Settings,
@@ -78,19 +78,9 @@ export default function Services() {
           {services.map((service, index) => (
             <Card 
               key={index} 
-              className={`hover-elevate transition-all duration-300 relative ${
-                service.popular ? 'border-chart-3 shadow-lg' : ''
-              }`}
+              className="hover-elevate transition-all duration-300 relative"
               data-testid={`card-service-${index}`}
             >
-              {service.popular && (
-                <Badge 
-                  className="absolute -top-3 left-1/2 transform -translate-x-1/2 bg-chart-3 text-primary"
-                  data-testid="badge-popular"
-                >
-                  Most Popular
-                </Badge>
-              )}
               
               <CardHeader className="text-center pb-4">
                 <div className="mx-auto w-12 h-12 bg-primary rounded-full flex items-center justify-center mb-4">
@@ -113,7 +103,7 @@ export default function Services() {
                 
                 <Button 
                   className="w-full"
-                  variant={service.popular ? "default" : "outline"}
+                  variant="outline"
                   onClick={() => {
                     const contactSection = document.getElementById('contact');
                     contactSection?.scrollIntoView({ behavior: 'smooth' });
