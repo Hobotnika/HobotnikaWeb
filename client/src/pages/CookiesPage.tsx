@@ -114,6 +114,43 @@ export default function CookiesPage() {
                 </div>
 
                 <div>
+                  <h3 className="text-xl font-semibold mb-3">3.3 Analytics Cookies</h3>
+                  <p className="mb-3">These cookies help us understand how visitors interact with our website for business improvement purposes.</p>
+                  <div className="overflow-x-auto">
+                    <table className="w-full border-collapse border border-muted">
+                      <thead>
+                        <tr className="bg-muted/50">
+                          <th className="border border-muted p-3 text-left">Cookie</th>
+                          <th className="border border-muted p-3 text-left">Purpose</th>
+                          <th className="border border-muted p-3 text-left">Duration</th>
+                          <th className="border border-muted p-3 text-left">Provider</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td className="border border-muted p-3">_ga</td>
+                          <td className="border border-muted p-3">Identifies unique users for analytics</td>
+                          <td className="border border-muted p-3">2 years</td>
+                          <td className="border border-muted p-3">Google Analytics</td>
+                        </tr>
+                        <tr>
+                          <td className="border border-muted p-3">_ga_[ID]</td>
+                          <td className="border border-muted p-3">Session tracking for analytics</td>
+                          <td className="border border-muted p-3">2 years</td>
+                          <td className="border border-muted p-3">Google Analytics</td>
+                        </tr>
+                        <tr>
+                          <td className="border border-muted p-3">_gid</td>
+                          <td className="border border-muted p-3">Daily user identification</td>
+                          <td className="border border-muted p-3">24 hours</td>
+                          <td className="border border-muted p-3">Google Analytics</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                <div>
                   <h3 className="text-xl font-semibold mb-3">3.4 Marketing Cookies</h3>
                   <p className="mb-3">These cookies help us advertise our consulting services effectively.</p>
                   <div className="overflow-x-auto">
