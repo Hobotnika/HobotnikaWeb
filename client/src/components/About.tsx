@@ -4,23 +4,23 @@ import { Brain, Users, Target, Award } from "lucide-react";
 const features = [
   {
     icon: Brain,
-    title: "Intelligent Strategy",
-    description: "We create flexible, data-driven strategies that evolve with your market dynamics and business goals."
+    title: "Technical Excellence",
+    description: "We develop sophisticated technical solutions using cutting-edge technologies and industry best practices."
   },
   {
     icon: Users,
     title: "Global Expertise",
-    description: "Deep understanding of international business culture and digital landscapes, combined with global best practices."
+    description: "Deep understanding of international business requirements and technical standards, with expertise across diverse industries."
   },
   {
     icon: Target,
-    title: "Integrated Approach",
-    description: "Simultaneous strategic guidance across SEO, social media, content marketing, and digital advertising for maximum impact."
+    title: "Integrated Solutions",
+    description: "Comprehensive technical integration across APIs, databases, cloud infrastructure, and custom software systems."
   },
   {
     icon: Award,
-    title: "Proven Results",
-    description: "Track record of helping businesses worldwide grow their digital presence and achieve measurable results."
+    title: "Proven Delivery",
+    description: "Track record of delivering robust technical solutions that enhance operational efficiency and business performance."
   }
 ];
 
@@ -33,9 +33,9 @@ export default function About() {
             About Hobotnika
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We are a global digital marketing consultancy that combines strategic intelligence 
-            and adaptive expertise with the professionalism and reliability that 
-            businesses worldwide demand.
+            We are a global technology solutions provider specializing in API integrations, 
+            custom software development, and digital infrastructure for businesses worldwide 
+            seeking reliable technical expertise.
           </p>
         </div>
 
@@ -65,25 +65,25 @@ export default function About() {
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Global Expertise:</strong> We understand international market dynamics and business culture
+                    <strong>Technical Expertise:</strong> We understand enterprise technology requirements and system architecture
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Adaptive Solutions:</strong> Flexible strategies that grow and change with your business
+                    <strong>Scalable Solutions:</strong> Flexible technical architectures that grow and adapt with your business
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Transparent Communication:</strong> Clear reporting and honest partnership approach
+                    <strong>Clear Documentation:</strong> Comprehensive technical documentation and transparent project communication
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Results-Driven:</strong> Focus on measurable outcomes that impact your bottom line
+                    <strong>Performance-Focused:</strong> Focus on measurable system improvements that enhance operational efficiency
                   </p>
                 </div>
               </div>
@@ -92,11 +92,11 @@ export default function About() {
             <div className="bg-muted/50 rounded-lg p-6">
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Mission</h4>
               <p className="text-card-foreground mb-6">
-                To empower businesses worldwide with intelligent, adaptive digital marketing strategies that evolve with their growth and market demands.
+                To empower businesses worldwide with robust technical solutions and digital infrastructure that enhance operational efficiency and support sustainable growth.
               </p>
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Vision</h4>
               <p className="text-card-foreground">
-                To be the world's most trusted digital marketing consultancy, known for our strategic adaptability and unwavering commitment to client success.
+                To be the world's most trusted technology solutions provider, known for our technical excellence and unwavering commitment to delivering reliable systems.
               </p>
             </div>
           </div>

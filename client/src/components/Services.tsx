@@ -2,56 +2,56 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { 
-  Search, 
-  Share2, 
-  PenTool, 
-  TrendingUp, 
-  BarChart, 
-  Megaphone,
+  Code, 
+  Laptop, 
+  Database, 
+  Cloud, 
+  Zap, 
+  Settings,
   Check
 } from "lucide-react";
 
 const services = [
   {
-    icon: Search,
-    title: "SEO Optimization",
-    description: "Comprehensive search engine optimization to improve your visibility in global markets.",
-    features: ["Search Strategy", "Technical Analysis", "Content Strategy", "Market Positioning"],
+    icon: Code,
+    title: "API Integration & Development",
+    description: "Custom API development and seamless integration solutions to connect your systems and enhance functionality.",
+    features: ["RESTful API Design", "Third-party Integrations", "Microservices Architecture", "API Documentation"],
     popular: false
   },
   {
-    icon: Share2,
-    title: "Social Media Marketing",
-    description: "Strategic social media presence that engages your global audience across all major platforms.",
-    features: ["Content Strategy", "Community Management", "Social Media Strategy", "Analytics & Reporting"],
+    icon: Laptop,
+    title: "Custom Software Solutions",
+    description: "Tailored software development that meets your specific business requirements and workflows.",
+    features: ["Web Applications", "Desktop Software", "Mobile Apps", "System Integration"],
     popular: true
   },
   {
-    icon: PenTool,
-    title: "Content Marketing",
-    description: "High-quality content creation in multiple languages that drives engagement and conversions.",
-    features: ["Content Strategy", "Brand Narrative", "Creative Direction", "Strategic Messaging"],
+    icon: Database,
+    title: "Database Management & Analytics",
+    description: "Comprehensive database design, optimization, and analytics solutions for data-driven insights.",
+    features: ["Database Design", "Performance Optimization", "Data Analytics", "Reporting Systems"],
     popular: false
   },
   {
-    icon: TrendingUp,
-    title: "Digital Advertising Strategy",
-    description: "Strategic advertising guidance that maximizes ROI and reaches your ideal global customers.",
-    features: ["Campaign Strategy", "Performance Optimization", "Strategic Planning", "Market Analysis"],
+    icon: Cloud,
+    title: "Cloud Infrastructure Setup",
+    description: "Scalable cloud architecture and infrastructure deployment for modern business operations.",
+    features: ["Cloud Migration", "Infrastructure Design", "Security Implementation", "Performance Monitoring"],
     popular: false
   },
   {
-    icon: BarChart,
-    title: "Analytics & Reporting",
-    description: "Comprehensive tracking and analysis to measure success and optimize your marketing efforts.",
-    features: ["Goal Tracking", "Custom Dashboards", "Monthly Reports", "Strategy Recommendations"],
+    icon: Zap,
+    title: "Business Process Automation",
+    description: "Streamline operations and increase efficiency through intelligent automation solutions.",
+    features: ["Workflow Automation", "Process Optimization", "Integration Solutions", "Performance Analytics"],
     popular: false
   },
   {
-    icon: Megaphone,
-    title: "Digital Strategy Consulting",
-    description: "Strategic guidance to align your digital marketing with global business objectives and market opportunities.",
-    features: ["Market Analysis", "Competitor Research", "Strategy Development", "Implementation Planning"],
+    icon: Settings,
+    title: "Technical Consulting & Support",
+    description: "Expert technical guidance and ongoing support to optimize your technology infrastructure.",
+    features: ["System Architecture", "Technology Assessment", "Implementation Support", "Ongoing Maintenance"],
     popular: false
   }
 ];
@@ -69,8 +69,8 @@ export default function Services() {
             Our Services
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We offer comprehensive digital marketing services with specialized expertise 
-            tailored for businesses worldwide ready to scale and grow.
+            We deliver comprehensive IT solutions and technical expertise 
+            to transform your business operations and drive digital innovation.
           </p>
         </div>
 
