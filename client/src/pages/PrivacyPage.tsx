@@ -198,80 +198,30 @@ export default function PrivacyPage() {
               
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">6.1 Analytics for Business Purposes</h3>
-                  <p className="mb-3">We use Google Analytics solely for business intelligence purposes:</p>
-                  
-                  <div className="bg-accent/10 p-4 rounded-lg mb-4">
-                    <h4 className="font-semibold text-accent mb-2">Strictly Business Analytics</h4>
-                    <ul className="list-disc pl-6 space-y-1 text-sm">
-                      <li>Understanding website usage patterns</li>
-                      <li>Improving our service offerings</li>
-                      <li>Analyzing consultation request sources</li>
-                      <li>Optimizing website performance for business purposes</li>
-                    </ul>
-                  </div>
-
-                  <div className="bg-muted/30 p-4 rounded-lg">
-                    <h4 className="font-semibold mb-2">Data Collection Limitations</h4>
-                    <ul className="list-disc pl-6 space-y-1 text-sm">
-                      <li>IP anonymization enabled</li>
-                      <li>Data retention limited to 14 months</li>
-                      <li>No advertising features enabled</li>
-                      <li>No data sharing with Google for advertising purposes</li>
-                      <li>Demographics and interests reports disabled</li>
-                    </ul>
-                  </div>
+                  <h3 className="text-xl font-semibold mb-3">6.1 Google Analytics</h3>
+                  <p className="mb-4">We use Google Analytics to understand how visitors use our website so we can improve it and our marketing efforts.</p>
                 </div>
 
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">6.2 Google Services for Business Operations</h3>
+                  <h3 className="text-xl font-semibold mb-3">6.2 Google Services for Our Business</h3>
+                  <p className="mb-4">We may use Google services for our business operations, including:</p>
                   
-                  <div className="space-y-4">
-                    <p className="mb-4">We use Google services to operate and promote our consulting business, including:</p>
-                    
-                    <ul className="list-disc pl-6 mb-6 space-y-2">
-                      <li>Google Analytics to understand website performance</li>
-                      <li>Google Ads to advertise our consulting services</li>
-                      <li>Google Workspace for email and document management</li>
-                    </ul>
-
-                    <div className="bg-muted/30 p-4 rounded-lg">
-                      <p className="text-sm font-medium">We do not share data from Google services with clients or third parties.</p>
-                    </div>
-                  </div>
+                  <ul className="list-disc pl-6 mb-4 space-y-2">
+                    <li>Google Ads to advertise our company's services</li>
+                    <li>Google Workspace for email and document management</li>
+                    <li>Other Google APIs for internal business purposes</li>
+                  </ul>
                 </div>
 
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">6.3 Google Services Disclosures</h3>
+                  <h3 className="text-xl font-semibold mb-3">6.3 Managing Your Preferences</h3>
+                  <p className="mb-4">You can control tracking through:</p>
                   
-                  <div className="space-y-4">
-                    <div>
-                      <h4 className="font-semibold mb-2">Google Analytics</h4>
-                      <p className="mb-3 text-sm">
-                        We use Google Analytics to analyze website usage for business improvement only. We have implemented IP anonymization, disabled advertising features, and configured appropriate retention periods. Learn more about how Google uses information from sites that use their services at <a href="https://www.google.com/policies/privacy/partners/" className="text-primary hover:underline" target="_blank" rel="noopener noreferrer">www.google.com/policies/privacy/partners/</a>
-                      </p>
-                    </div>
-
-                    <div>
-                      <h4 className="font-semibold mb-2">Google Consent Mode</h4>
-                      <p className="mb-3 text-sm">
-                        For visitors from the EEA and UK, we implement Google Consent Mode, which adjusts how analytics behave based on consent status for analytics_storage only (advertising features are disabled).
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">6.4 Managing Analytics Preferences</h3>
-                  <div className="bg-muted/30 p-4 rounded-lg">
-                    <h4 className="font-semibold mb-2">Opt-Out Options:</h4>
-                    <ul className="list-disc pl-6 space-y-1 text-sm">
-                      <li>Our cookie consent banner</li>
-                      <li>Google Analytics Opt-out Browser Add-on: <a href="https://tools.google.com/dlpage/gaoptout" className="text-primary hover:underline" target="_blank" rel="noopener noreferrer">tools.google.com/dlpage/gaoptout</a></li>
-                      <li>Browser settings to refuse cookies</li>
-                      <li>Global Privacy Control: We honor GPC signals where legally required</li>
-                    </ul>
-                  </div>
+                  <ul className="list-disc pl-6 mb-4 space-y-2">
+                    <li>Our cookie consent banner</li>
+                    <li>Browser settings to refuse cookies</li>
+                    <li>Google Analytics Opt-out: <a href="https://tools.google.com/dlpage/gaoptout" className="text-primary hover:underline" target="_blank" rel="noopener noreferrer">tools.google.com/dlpage/gaoptout</a></li>
+                  </ul>
                 </div>
               </div>
             </section>
