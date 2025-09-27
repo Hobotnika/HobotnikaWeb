@@ -213,22 +213,22 @@ export default function TermsPage() {
                 </div>
                 <div>
                   <h3 className="text-lg font-medium mb-2">7.5 Third-Party API Usage.</h3>
-                  <p className="mb-2">Hobotnika may use third-party APIs (including Google APIs) solely for internal business operations, limited to:</p>
+                  <p className="mb-2">Hobotnika may use third-party APIs (including Google APIs) for legitimate business purposes, limited to:</p>
                   <ul className="list-disc pl-6 mb-4 space-y-1">
                     <li>Our website analytics for business improvement</li>
                     <li>Internal business intelligence and performance analysis</li>
-                    <li>Internal communication and collaboration tools</li>
-                    <li>Our own system integrations and data management</li>
+                    <li>Digital advertising management services for clients</li>
+                    <li>Campaign creation, optimization, and reporting for client accounts</li>
                   </ul>
                 </div>
                 <div>
                   <h3 className="text-lg font-medium mb-2">7.6 API Data Restrictions.</h3>
                   <p className="mb-2">Data accessed through third-party APIs will not be used for:</p>
                   <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Advertising or marketing to non-clients</li>
-                    <li>Cross-site tracking or behavioral profiling</li>
+                    <li>Our own marketing beyond authorized client campaigns</li>
                     <li>Data sales or monetization beyond consulting services</li>
-                    <li>Building advertising profiles or audience segments</li>
+                    <li>Unauthorized access to client accounts</li>
+                    <li>Building advertising profiles for non-client purposes</li>
                   </ul>
                 </div>
               </div>
@@ -562,22 +562,22 @@ export default function TermsPage() {
                     </div>
                     <div>
                       <h3 className="text-lg font-medium mb-2">7.5 Kolmandate osapoolte API kasutamine.</h3>
-                      <p className="mb-2">Hobotnika võib kasutada kolmandate osapoolte API-sid (sealhulgas Google API-d) ainult sisemiseks äri tegevuseks, piirdudes:</p>
+                      <p className="mb-2">Hobotnika võib kasutada kolmandate osapoolte API-sid (sealhulgas Google API-d) õiguspärasteks äri eesmärkideks, piirdudes:</p>
                       <ul className="list-disc pl-6 mb-4 space-y-1">
                         <li>Meie veebisaidi analüütikaga äri parandamiseks</li>
                         <li>Sisemine äri luure ja tulemuslikkuse analüüs</li>
-                        <li>Sisemised suhtlus- ja koostöövahendid</li>
-                        <li>Meie enda süsteemi integratsioonid ja andmete haldamine</li>
+                        <li>Digitaalse reklaamihalduse teenused klientidele</li>
+                        <li>Kampaaniate loomine, optimeerimine ja aruandlus kliendi kontode jaoks</li>
                       </ul>
                     </div>
                     <div>
                       <h3 className="text-lg font-medium mb-2">7.6 API andmete piirangud.</h3>
                       <p className="mb-2">Kolmandate osapoolte API-de kaudu kätte saadud andmeid ei kasutata:</p>
                       <ul className="list-disc pl-6 mb-4 space-y-1">
-                        <li>Reklaam või turundus mitte-klientidele</li>
-                        <li>Veebisaitide ülene jälgimine või käitumuslik profileerimine</li>
+                        <li>Meie enda turundus peale volitatud kliendi kampaaniate</li>
                         <li>Andmete müük või rahaksimuutmine peale konsultatsiooniteenuste</li>
-                        <li>Reklaamiprofiilide või sihtgruppide loomine</li>
+                        <li>Volitamata juurdepääs kliendi kontodele</li>
+                        <li>Reklaamiprofiilide loomine mitte-kliendi eesmärkidel</li>
                       </ul>
                     </div>
                   </div>
