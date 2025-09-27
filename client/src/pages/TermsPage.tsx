@@ -15,13 +15,13 @@ export default function TermsPage() {
             <p className="text-sm font-medium">Last Updated: January 1, 2025</p>
           </div>
 
-          <div className="space-y-8 text-foreground">
-            <div className="bg-muted/50 p-6 rounded-lg">
-              <p className="text-sm leading-relaxed">
-                These Terms of Service ("Terms") govern the provision of professional business consulting services by Hobotnika OÜ, a company registered in Estonia (registry code: 16770728) with its registered office at Narva mnt 5, 10117 Tallinn, Estonia ("Hobotnika," "we," "us," or "our") to our clients ("Client," "you," or "your").
-              </p>
-            </div>
+          <div className="bg-muted/50 p-6 rounded-lg mb-8">
+            <p className="text-sm leading-relaxed">
+              These Terms of Service ("Terms") govern the provision of professional business consulting services by Hobotnika OÜ, a company registered in Estonia (registry code: 16770728) with its registered office at Narva mnt 5, 10117 Tallinn, Estonia ("Hobotnika," "we," "us," or "our") to our clients ("Client," "you," or "your").
+            </p>
+          </div>
 
+          <div className="space-y-8 text-foreground">
             <section>
               <h2 className="text-2xl font-semibold mb-4">1. ACCEPTANCE OF TERMS</h2>
               <div className="space-y-4">
@@ -193,7 +193,7 @@ export default function TermsPage() {
             </section>
 
             <section>
-              <h2 className="text-2xl font-semibold mb-4">7. DATA PROTECTION</h2>
+              <h2 className="text-2xl font-semibold mb-4">7. DATA PROTECTION AND API USAGE</h2>
               <div className="space-y-4">
                 <div>
                   <h3 className="text-lg font-medium mb-2">7.1 GDPR Compliance.</h3>
@@ -210,6 +210,26 @@ export default function TermsPage() {
                 <div>
                   <h3 className="text-lg font-medium mb-2">7.4 Data Breach.</h3>
                   <p className="mb-4">In case of a personal data breach, the affected party shall notify the other party without undue delay and cooperate in any required notifications to supervisory authorities or data subjects.</p>
+                </div>
+                <div>
+                  <h3 className="text-lg font-medium mb-2">7.5 Third-Party API Usage.</h3>
+                  <p className="mb-2">Hobotnika may use third-party APIs (including Google APIs) solely for internal business operations, limited to:</p>
+                  <ul className="list-disc pl-6 mb-4 space-y-1">
+                    <li>Our website analytics for business improvement</li>
+                    <li>Internal business intelligence and performance analysis</li>
+                    <li>Internal communication and collaboration tools</li>
+                    <li>Our own system integrations and data management</li>
+                  </ul>
+                </div>
+                <div>
+                  <h3 className="text-lg font-medium mb-2">7.6 API Data Restrictions.</h3>
+                  <p className="mb-2">Data accessed through third-party APIs will not be used for:</p>
+                  <ul className="list-disc pl-6 mb-4 space-y-1">
+                    <li>Advertising or marketing to non-clients</li>
+                    <li>Cross-site tracking or behavioral profiling</li>
+                    <li>Data sales or monetization beyond consulting services</li>
+                    <li>Building advertising profiles or audience segments</li>
+                  </ul>
                 </div>
               </div>
             </section>
@@ -323,12 +343,262 @@ export default function TermsPage() {
               <h2 className="text-2xl font-semibold mb-4">Contact Information</h2>
               <div className="space-y-2">
                 <p className="font-semibold">Hobotnika OÜ</p>
-                <p>Email: <a href="mailto:legal@hobotnika.com" className="text-primary hover:underline">legal@hobotnika.com</a></p>
+                <p>Email: <a href="mailto:privacy@hobotnika.com" className="text-primary hover:underline">privacy@hobotnika.com</a></p>
                 <p>Address: Narva mnt 5, 10117 Tallinn, Estonia</p>
                 <p>Phone: <a href="tel:+351933679097" className="text-primary hover:underline">+351 933679097</a></p>
                 <p>Registry Code: 16770728</p>
               </div>
             </section>
+
+            {/* Estonian Version */}
+            <div className="border-t border-muted pt-12 mt-16">
+              <h1 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
+                Teenuse Tingimused
+              </h1>
+              <h2 className="text-xl md:text-2xl font-semibold text-muted-foreground mb-8">
+                HOBOTNIKA OÜ PROFESSIONAALSED KONSULTATSIOONITEENUSED
+              </h2>
+              
+              <div className="text-muted-foreground mb-8">
+                <p className="text-sm font-medium">Jõustumise kuupäev: 1. jaanuar 2025</p>
+                <p className="text-sm font-medium">Viimati uuendatud: 1. jaanuar 2025</p>
+              </div>
+
+              <div className="bg-muted/50 p-6 rounded-lg mb-8">
+                <p className="text-sm leading-relaxed">
+                  Need teenuse tingimused ("Tingimused") reguleerivad Hobotnika OÜ professionaalseid ärikonsultatsiooniteenuseid. Hobotnika OÜ on Eestis registreeritud ettevõte (registrikood: 16770728), mille registreeritud asukoht on Narva mnt 5, 10117 Tallinn, Eesti ("Hobotnika," "meie," või "meile") klientidele ("Klient," "teie," või "teile").
+                </p>
+              </div>
+
+              <div className="space-y-8 text-foreground">
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">1. TINGIMUSTE VASTUVÕTMINE</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">1.1 Lepingu sõlmimine.</h3>
+                      <p className="mb-4">Meie teenuste kasutamisel, konsultatsiooni taotlemisel või töölehe allkirjastamisel nõustute nende tingimustega. Need tingimused koos mis tahes kohaldatava töölehtega ("TL") moodustavad poolte vahelise täieliku kokkuleppe.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">1.2 Volitused.</h3>
+                      <p className="mb-4">Te kinnitahte ja garanteerite, et teil on täielik korporatiivne võim ja volitused nende tingimuste sõlmimiseks ning et isik, kes võtab need tingimused kliendi nimel vastu, on volitatud klienti siduma.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">1.3 Keel.</h3>
+                      <p className="mb-4">Need tingimused on esitatud inglise ja eesti keeles. Vastuolude korral kehtib rahvusvaheliste klientide puhul ingliskeelne versioon, kui pole kirjalikult kokku lepitud teisiti.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">2. TEENUSED</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">2.1 Teenuste ulatus.</h3>
+                      <p className="mb-4">Hobotnika osutab professionaalseid ärikonsultatsiooniteenuseid, sealhulgas strateegilist planeerimist, ärendust, protsesside optimeerimist, digitaalstrateegiat, turu-uuringuid ja tegevuskonsultatsioone vastavalt igale TL-le.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">2.2 Teenuste osutamine.</h3>
+                      <p className="mb-4">Teenused osutatakse professionaalse pädevuse ja kohaldatavate tööstusharu standarditega kooskõlas.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">2.3 Projektijuhtimine.</h3>
+                      <p className="mb-2">Iga koostööd reguleerib TL, mis täpsustab:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>Tulemused ja edu kriteeriumid</li>
+                        <li>Ajakava ja verstapostid</li>
+                        <li>Projekti meeskonna koosseis</li>
+                        <li>Vastuvõtu protseduurid</li>
+                        <li>Muudatuste juhtimise protsess</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">2.4 Kliendi koostöö.</h3>
+                      <p className="mb-4">Klient peab õigeaegselt tagama juurdepääsu personalile, teabele, süsteemidele ja ruumidele, mis on teenuste osutamiseks mõistlikult vajalikud. Sellise koostöö pakkumise viivitused võivad mõjutada projekti ajakavasid ja kulusid.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">3. MAKSETINGIMUSED</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">3.1 Tasud.</h3>
+                      <p className="mb-4">Klient maksab tasusid vastavalt kohaldatavale TL-le. Kui pole määratud teisiti, on kõik tasud noteeritud eurodes ja ei sisalda kohaldatavaid makse.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">3.2 Maksegraafik.</h3>
+                      <p className="mb-4">Arved esitatakse igakuiselt tagasiulatuvalt või verstapostituse lõpetamisel vastavalt TL-s määratule. Makse tuleb tasuda kolmekümne (30) päeva jooksul arve kuupäevast.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">3.3 Kulud.</h3>
+                      <p className="mb-4">Mõistlikud reisi- ja taskukulud, mis on teenustega seoses tekkinud, arvestatakse omahinnaga, kui kulud ületavad 500 eurot, on vaja eelnevat heakskiitu.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">3.4 Hiline makse.</h3>
+                      <p className="mb-4">Tähtaja ületanud summadelt võetakse intressi 0,8% kuus või Eesti seadusega lubatud maksimaalne määr, olenevalt sellest, kumb on väiksem. Jätame endale õiguse peatada teenused kontode puhul, mis on üle kuuekümne (60) päeva tähtaja ületanud.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">3.5 Maksud.</h3>
+                      <p className="mb-4">Klient vastutab kõigi teenustega seotud maksude, tollimaksude ja hindamiste eest, välja arvatud Hobotnika netosissetulekul põhinevad maksud. EL-i klientide puhul kehtib käibemaksu puhul pöördmaksustamise mehhanism.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">4. INTELLEKTUAALOMAND</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">4.1 Kliendi materjalid.</h3>
+                      <p className="mb-4">Klient säilitab kõik õigused Hobotnikale esitatud materjalidele, andmetele ja teabele. Meile antakse piiratud litsents kasutada kliendi materjale ainult teenuste osutamiseks.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">4.2 Tulemused.</h3>
+                      <p className="mb-4">Täieliku tasumise järel omab klient kõiki õigusi TL alusel spetsiaalselt kliendi jaoks loodud tulemustes. See ei sisalda Hobotnika olemasolevat intellektuaalomandit ja metoodikat.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">4.3 Hobotnika omand.</h3>
+                      <p className="mb-4">Säilitame kõik õigused oma olemasolevale intellektuaalomandile, metoodikale, teadmistele, tööriistadele ja tehnikatele. Klient saab mitte-ainuõiguslik, püsiva litsentsi kasutada selliseid materjale ainult tulemustega seoses.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">4.4 Tagasiside.</h3>
+                      <p className="mb-4">Kliendi poolt esitatud ettepanekuid, tagasisidet või parendusi võib Hobotnika kasutada ilma piirangute või hüvitiseta.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">4.5 Jääteadmised.</h3>
+                      <p className="mb-4">Hobotnika võib kasutada koostöö käigus omandatud üldisi teadmisi, oskusi ja kogemusi, tingimusel et kliendi konfidentsiaalset teavet ei avaldata.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">5. KONFIDENTSIAALSUS</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">5.1 Konfidentsiaalteave.</h3>
+                      <p className="mb-4">Iga pool säilitab teise poole konfidentsiaalteabe konfidentsiaalsuse sama hoolsusega, mida kasutatakse oma konfidentsiaalteabe kaitsmiseks, kuid mitte vähem kui mõistliku hoolsusega.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">5.2 Erandid.</h3>
+                      <p className="mb-2">Konfidentsiaalsuskohustused ei kehti teabe kohta, mis:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>On või muutub avalikult kättesaadavaks ilma rikkumiseta</li>
+                        <li>Oli õiguspäraselt teada enne avalikustamist</li>
+                        <li>Arendatakse iseseisvalt ilma konfidentsiaalteabe kasutamiseta</li>
+                        <li>Tuleb avalikustada seaduse või kohtu korraldusega (koos kiire teatamisega avaldavale poolele)</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">5.3 Kestus.</h3>
+                      <p className="mb-4">Konfidentsiaalsuskohustused jäävad kehtima nende tingimuste lõpetamise järel viis (5) aastat, välja arvatud ärisaladused, mis jäävad igaveseks kaitstud.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">5.4 Materjalide tagastamine.</h3>
+                      <p className="mb-4">Lõpetamisel või taotlusel tagastab või hävitab iga pool teise poole kogu konfidentsiaalteabe, välja arvatud juriidiliste või vastavusnõuete jaoks vajalik.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">6. VASTUTUS JA LAHTIÜTLEMISED</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.1 Teenuste olemus.</h3>
+                      <p className="mb-4">Teenused on ainult nõuandvad. Klient säilitab täieliku vastutuse kõigi äri otsuste, rakendamiste ja tulemuste eest. Hobotnika annab soovitusi olemasoleva teabe põhjal, kuid ei anna garantiid tulemuste kohta.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.2 Garantiide puudumine.</h3>
+                      <p className="mb-4 uppercase font-semibold">HOBOTNIKA OSUTAB TEENUSEID "NAGU ON" ILMA IGASUGUSTE GARANTIIDETA, VÄLJENDATUD VÕI KAUDSED, SEALHULGAS KAUBANDUSLIKUD GARANTIID, SOBIVUS KINDLAKS OTSTARBEKS VÕI MITTE-RIKKUMINE.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.3 Kahju välistamine.</h3>
+                      <p className="mb-4 uppercase font-semibold">ÜKSKI POOL EI VASTUTA KAUDSETE, JUHUSLIKE, JÄRGNEVATE, ERILIKE VÕI KARISTUSLIKE KAHJUDE, KASUMI KAOTUSE VÕI ÄRIVÕIMALUSTE KAOTUSE EEST, OLENEMATA VASTUTUSE TEOORIAST.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.4 Kliendi tunnustamine ja riski võtmine.</h3>
+                      <p className="mb-2">Klient tunnistab ja nõustub, et:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>Kõik äri otsused jäävad ainult kliendi vastutuseks</li>
+                        <li>Klient hindab kõiki soovitusi iseseisvalt</li>
+                        <li>Mis tahes nõuannete rakendamine on kliendi ainuvastutusel ja riisikol</li>
+                        <li>Hobotnika roll piirdub teabe ja analüüsi pakkumisega</li>
+                        <li>Kliendil on piisav ekspertiis või ta saab iseseisva kontrollimise enne soovituste järgi tegutsemist</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.5 Kliendi hüvitamine.</h3>
+                      <p className="mb-2">Klient hüvitab ja hoiab Hobotnikat kahju eest kolmandate osapoolte nõuete puhul, mis tulenevad:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>Kliendi soovituste kasutamisest või rakendamisest</li>
+                        <li>Kliendi äri tegevusest või otsustest</li>
+                        <li>Kolmandate osapoolte nõuetest seoses kliendi äriga</li>
+                        <li>Kliendi poolt esitatud materjalidest või teabest</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">6.6 Vääramatu jõud.</h3>
+                      <p className="mb-4">Ükski pool ei vastuta viivituste või ebaõnnestumiste eest, mis tulenevad mõistliku kontrolli alt väljaspool olevatest põhjustest, sealhulgas Jumala teod, pandeemiad, valitsuse tegevused, terrorism või taristu tõrked. Mõjutatud pool peab teist poolt kiiresti teavitama ja kasutama mõistlikke jõupingutusi mõjude leevendamiseks.</p>
+                    </div>
+                  </div>
+                </section>
+
+                <section>
+                  <h2 className="text-2xl font-semibold mb-4">7. ANDMEKAITSE JA API KASUTAMINE</h2>
+                  <div className="space-y-4">
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.1 GDPR nõuete täitmine.</h3>
+                      <p className="mb-4">Mõlemad pooled peavad täitma Üldist Andmekaitse Määrust (EL) 2016/679 ja kohaldatavaid andmekaitse seadusi. Isikuandmete töötlemisel tegutsevad pooled sõltumatute vastutavate töötlejatena, kui pole andmetöötluslepingus määratud teisiti.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.2 Turvaabinõud.</h3>
+                      <p className="mb-4">Hobotnika rakendab sobivaid tehnilisi ja organisatsioonilisi meetmeid isikuandmete kaitsmiseks, sealhulgas krüpteering, juurdepääsu kontroll ja regulaarsed turvaanalüüsid.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.3 Rahvusvahelised ülekanded.</h3>
+                      <p className="mb-4">Mis tahes isikuandmete ülekanne väljaspool EMP-d allub sobivate kaitsemeetmetega, sealhulgas standardsed lepingu tingimused või adekvaatsuse otsused.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.4 Andmekaitse rikkumine.</h3>
+                      <p className="mb-4">Isikuandmete rikkumise korral teavitab mõjutatud pool teist poolt viivitamatult ja teeb koostööd vajalike teatamistes järelevalveasutustele või andmesubjektidele.</p>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.5 Kolmandate osapoolte API kasutamine.</h3>
+                      <p className="mb-2">Hobotnika võib kasutada kolmandate osapoolte API-sid (sealhulgas Google API-d) ainult sisemiseks äri tegevuseks, piirdudes:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>Meie veebisaidi analüütikaga äri parandamiseks</li>
+                        <li>Sisemine äri luure ja tulemuslikkuse analüüs</li>
+                        <li>Sisemised suhtlus- ja koostöövahendid</li>
+                        <li>Meie enda süsteemi integratsioonid ja andmete haldamine</li>
+                      </ul>
+                    </div>
+                    <div>
+                      <h3 className="text-lg font-medium mb-2">7.6 API andmete piirangud.</h3>
+                      <p className="mb-2">Kolmandate osapoolte API-de kaudu kätte saadud andmeid ei kasutata:</p>
+                      <ul className="list-disc pl-6 mb-4 space-y-1">
+                        <li>Reklaam või turundus mitte-klientidele</li>
+                        <li>Veebisaitide ülene jälgimine või käitumuslik profileerimine</li>
+                        <li>Andmete müük või rahaksimuutmine peale konsultatsiooniteenuste</li>
+                        <li>Reklaamiprofiilide või sihtgruppide loomine</li>
+                      </ul>
+                    </div>
+                  </div>
+                </section>
+
+                <section className="bg-muted/30 p-6 rounded-lg">
+                  <h2 className="text-2xl font-semibold mb-4">Kontaktandmed</h2>
+                  <div className="space-y-2">
+                    <p className="font-semibold">Hobotnika OÜ</p>
+                    <p>E-post: <a href="mailto:legal@hobotnika.com" className="text-primary hover:underline">legal@hobotnika.com</a></p>
+                    <p>Aadress: Narva mnt 5, 10117 Tallinn, Eesti</p>
+                    <p>Telefon: <a href="tel:+351933679097" className="text-primary hover:underline">+351 933679097</a></p>
+                    <p>Registrikood: 16770728</p>
+                  </div>
+                  
+                  <div className="mt-6 pt-4 border-t border-muted">
+                    <p className="text-sm text-muted-foreground">© 2025 Hobotnika OÜ. Kõik õigused kaitstud.</p>
+                  </div>
+                </section>
+              </div>
+            </div>
           </div>
         </div>
       </div>
