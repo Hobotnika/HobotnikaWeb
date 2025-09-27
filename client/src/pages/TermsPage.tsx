@@ -217,8 +217,8 @@ export default function TermsPage() {
                   <ul className="list-disc pl-6 mb-4 space-y-1">
                     <li>Our website analytics for business improvement</li>
                     <li>Internal business intelligence and performance analysis</li>
-                    <li>Digital advertising management services for clients</li>
-                    <li>Campaign creation, optimization, and reporting for client accounts</li>
+                    <li>Our own business marketing and advertising campaigns</li>
+                    <li>Internal marketing performance analysis and optimization</li>
                   </ul>
                 </div>
                 <div>
@@ -566,8 +566,8 @@ export default function TermsPage() {
                       <ul className="list-disc pl-6 mb-4 space-y-1">
                         <li>Meie veebisaidi analüütikaga äri parandamiseks</li>
                         <li>Sisemine äri luure ja tulemuslikkuse analüüs</li>
-                        <li>Digitaalse reklaamihalduse teenused klientidele</li>
-                        <li>Kampaaniate loomine, optimeerimine ja aruandlus kliendi kontode jaoks</li>
+                        <li>Meie enda äri turundus ja reklaamikampaaniad</li>
+                        <li>Sisemine turunduse tulemuslikkuse analüüs ja optimeerimine</li>
                       </ul>
                     </div>
                     <div>
