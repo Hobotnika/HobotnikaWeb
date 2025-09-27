@@ -1,0 +1,187 @@
+# COOKIE POLICY
+## HOBOTNIKA OÜ
+
+**Effective Date:** January 1, 2025  
+**Last Updated:** January 1, 2025
+
+This Cookie Policy explains how Hobotnika OÜ ("Hobotnika," "we," "us," or "our") uses cookies and similar technologies on our website www.hobotnika.ee (the "Website"). This policy should be read together with our Privacy Policy.
+
+## 1. WHAT ARE COOKIES?
+
+Cookies are small text files placed on your device when you visit a website. They help websites remember your preferences, improve your experience, and provide analytics about how the site is used. Similar technologies include pixels, web beacons, and local storage.
+
+## 2. HOW WE USE COOKIES
+
+We use cookies to:
+- Ensure our website functions properly
+- Remember your preferences and settings
+- Analyze how visitors use our website to improve performance
+- Understand our audience for business development purposes
+- Enable contact forms and consultation requests
+
+## 3. TYPES OF COOKIES WE USE
+
+### 3.1 Strictly Necessary Cookies
+These cookies are essential for website operation and cannot be disabled.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| Session_ID | Maintains user session | Session | Hobotnika |
+| Security_Token | CSRF protection | Session | Hobotnika |
+| Cookie_Consent | Records consent preferences | 12 months | Hobotnika |
+
+### 3.2 Functional Cookies
+These cookies remember your choices to provide enhanced features.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| Language_Pref | Language selection | 12 months | Hobotnika |
+| Region_Settings | Regional preferences | 6 months | Hobotnika |
+
+### 3.4 Marketing Cookies
+These cookies help us advertise our consulting services effectively.
+
+| Cookie | Purpose | Duration | Provider |
+|--------|---------|----------|----------|
+| Google Ads | Conversion tracking for our ads | 90 days | Google Ads |
+| Remarketing | Show our ads to previous visitors | 540 days | Google Ads |
+
+## 4. GOOGLE SERVICES FOR OUR BUSINESS
+
+We use Google services to operate and promote our business, including:
+- Google Analytics to understand website performance
+- Google Ads to advertise our offerings
+- Google Workspace for email and document management
+
+### 4.1 Google Analytics
+We use Google Analytics to analyze website usage for business improvement.
+
+### 4.2 Google Ads
+We use Google Ads for advertising our services, which includes conversion tracking and remarketing to show relevant ads.
+
+### 4.3 Google Consent Mode
+For visitors from the EEA and UK, we implement Google Consent Mode which adjusts data collection based on your consent choices.
+
+## 5. YOUR CONSENT CHOICES
+
+### 5.1 Consent Management
+When you first visit our website, we ask for your consent before placing non-essential cookies. You can:
+- Accept analytics cookies for website improvement
+- Reject all non-essential cookies
+- Change your preferences at any time
+
+### 5.2 Managing Your Preferences
+You can manage cookie preferences through:
+- Our cookie consent banner
+- Browser settings (see Section 6)
+- Contacting us directly
+
+### 5.3 Consequences of Refusing Cookies
+If you refuse analytics cookies:
+- Strictly necessary cookies will still be used
+- Website functionality remains intact
+- We cannot analyze usage patterns to improve our services
+- All consultation and contact features remain available
+
+## 6. BROWSER COOKIE CONTROLS
+
+Most browsers allow you to:
+- View what cookies are stored
+- Delete cookies individually or entirely
+- Block third-party cookies
+- Block all cookies
+- Set preferences for specific websites
+
+**Browser Instructions:**
+- Chrome: chrome://settings/cookies
+- Firefox: about:preferences#privacy
+- Safari: Preferences > Privacy
+- Edge: edge://settings/privacy
+- Opera: opera://settings/privacy
+
+## 7. OPT-OUT MECHANISMS
+
+**Google Analytics Opt-Out:**
+- Install the Google Analytics Opt-out Browser Add-on
+- Available at: tools.google.com/dlpage/gaoptout
+
+**Browser Privacy Signals:**
+- We honor Global Privacy Control (GPC) signals where legally required
+
+## 8. BUSINESS PURPOSE CLARIFICATION
+
+As an international firm, we use cookies and tracking technologies for:
+- Website functionality and security
+- Understanding our business audience
+- Marketing our services
+- Improving our service delivery
+
+We use Google services including Analytics and Ads for our own business marketing and operations.
+
+## 9. INTERNATIONAL COMPLIANCE
+
+### 9.1 European Users
+For EU/EEA users, we comply with:
+- ePrivacy Directive 2002/58/EC
+- General Data Protection Regulation (GDPR)
+- Estonian Electronic Communications Act
+
+We obtain prior consent for all non-essential cookies.
+
+### 9.2 Other Jurisdictions
+We respect privacy preferences for users in all jurisdictions, applying privacy-by-design principles globally.
+
+## 10. DATA SECURITY AND RETENTION
+
+### 10.1 Security Measures
+We implement security measures for cookie data:
+- HTTPS encryption for all data transmission
+- Secure and HttpOnly flags where appropriate
+- SameSite attributes to prevent CSRF attacks
+- Regular security audits
+
+### 10.2 Retention Periods
+- Session cookies: Deleted when browser closes
+- Analytics cookies: Maximum 2 years (with 14-month data retention in Google Analytics)
+- Preference cookies: 12 months maximum
+
+## 11. THIRD-PARTY SERVICES
+
+### 11.1 Google Analytics
+Google Analytics is our only third-party service that uses cookies. We have configured it strictly for business analytics purposes without advertising features.
+
+### 11.2 No Other Third-Party Tracking
+We do not use:
+- Social media tracking pixels
+- Advertising networks
+- Cross-site tracking services
+- Marketing automation platforms that track users
+
+## 12. UPDATES TO THIS POLICY
+
+We may update this Cookie Policy to reflect:
+- Changes in our business practices
+- New legal requirements
+- Technology updates
+
+We will notify you of material changes through website notices. The "Last Updated" date shows when this policy was last revised.
+
+## 13. CONTACT INFORMATION
+
+For questions about our cookie practices:
+
+**Data Protection Contact:**  
+Hobotnika OÜ  
+Email: privacy@hobotnika.com  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Phone: +351 933679097
+
+**Estonian Supervisory Authority:**  
+Andmekaitse Inspektsioon  
+Address: Tatari 39, 10134 Tallinn, Estonia  
+Email: info@aki.ee  
+Website: www.aki.ee
+
+---
+
+© 2025 Hobotnika OÜ. All rights reserved.

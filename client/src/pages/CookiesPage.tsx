@@ -114,8 +114,8 @@ export default function CookiesPage() {
                 </div>
 
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">3.3 Analytics Cookies</h3>
-                  <p className="mb-3">These cookies help us understand how visitors interact with our website for business improvement purposes.</p>
+                  <h3 className="text-xl font-semibold mb-3">3.4 Marketing Cookies</h3>
+                  <p className="mb-3">These cookies help us advertise our consulting services effectively.</p>
                   <div className="overflow-x-auto">
                     <table className="w-full border-collapse border border-muted">
                       <thead>
@@ -128,22 +128,16 @@ export default function CookiesPage() {
                       </thead>
                       <tbody>
                         <tr>
-                          <td className="border border-muted p-3">_ga</td>
-                          <td className="border border-muted p-3">Identifies unique users for analytics</td>
-                          <td className="border border-muted p-3">2 years</td>
-                          <td className="border border-muted p-3">Google Analytics</td>
+                          <td className="border border-muted p-3">Google Ads</td>
+                          <td className="border border-muted p-3">Conversion tracking for our ads</td>
+                          <td className="border border-muted p-3">90 days</td>
+                          <td className="border border-muted p-3">Google Ads</td>
                         </tr>
                         <tr>
-                          <td className="border border-muted p-3">_ga_[ID]</td>
-                          <td className="border border-muted p-3">Session tracking for analytics</td>
-                          <td className="border border-muted p-3">2 years</td>
-                          <td className="border border-muted p-3">Google Analytics</td>
-                        </tr>
-                        <tr>
-                          <td className="border border-muted p-3">_gid</td>
-                          <td className="border border-muted p-3">Daily user identification</td>
-                          <td className="border border-muted p-3">24 hours</td>
-                          <td className="border border-muted p-3">Google Analytics</td>
+                          <td className="border border-muted p-3">Remarketing</td>
+                          <td className="border border-muted p-3">Show our ads to previous visitors</td>
+                          <td className="border border-muted p-3">540 days</td>
+                          <td className="border border-muted p-3">Google Ads</td>
                         </tr>
                       </tbody>
                     </table>
@@ -153,52 +147,29 @@ export default function CookiesPage() {
             </section>
 
             <section>
-              <h2 className="text-2xl font-semibold mb-4">4. GOOGLE ANALYTICS USAGE</h2>
+              <h2 className="text-2xl font-semibold mb-4">4. GOOGLE SERVICES FOR OUR BUSINESS</h2>
               
+              <p className="mb-4">We use Google services to operate and promote our business, including:</p>
+              <ul className="list-disc pl-6 mb-6 space-y-1">
+                <li>Google Analytics to understand website performance</li>
+                <li>Google Ads to advertise our offerings</li>
+                <li>Google Workspace for email and document management</li>
+              </ul>
+
               <div className="space-y-6">
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">4.1 Business Analytics Only</h3>
-                  <p className="mb-3">We use Google Analytics solely to:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Understand website usage patterns</li>
-                    <li>Improve our service offerings</li>
-                    <li>Analyze consultation request sources</li>
-                    <li>Optimize website performance for business purposes</li>
-                  </ul>
-                  
-                  <p className="mb-3">We have configured Google Analytics with:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>IP anonymization enabled</li>
-                    <li>Data retention limited to 14 months</li>
-                    <li>Google Signals disabled</li>
-                    <li>No data sharing with Google for advertising purposes</li>
-                    <li>Demographics and interests reports disabled</li>
-                  </ul>
+                  <h3 className="text-xl font-semibold mb-3">4.1 Google Analytics</h3>
+                  <p className="mb-4">We use Google Analytics to analyze website usage for business improvement.</p>
                 </div>
 
                 <div>
-                  <h3 className="text-xl font-semibold mb-3">4.2 Data Collection Limitations</h3>
-                  <p className="mb-3">Google Analytics data is used exclusively for:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Internal business analysis</li>
-                    <li>Website performance optimization</li>
-                    <li>Understanding our consulting market</li>
-                    <li>Improving user experience</li>
-                  </ul>
-                  
-                  <div className="bg-accent/10 p-4 rounded-lg">
-                    <p className="font-semibold text-accent">No advertising or marketing use:</p>
-                    <p className="text-sm mt-1">We do not use Google Analytics data for advertising, remarketing, or cross-site tracking purposes.</p>
-                  </div>
+                  <h3 className="text-xl font-semibold mb-3">4.2 Google Ads</h3>
+                  <p className="mb-4">We use Google Ads for advertising our services, which includes conversion tracking and remarketing to show relevant ads.</p>
                 </div>
 
                 <div>
                   <h3 className="text-xl font-semibold mb-3">4.3 Google Consent Mode</h3>
-                  <p className="mb-3">For visitors from the EEA and UK, we implement Google Consent Mode which adjusts data collection based on consent status:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>analytics_storage: Controls storage of analytics-related data</li>
-                    <li>ad_storage: Set to "denied" (we do not use advertising features)</li>
-                  </ul>
+                  <p className="mb-4">For visitors from the EEA and UK, we implement Google Consent Mode which adjusts data collection based on your consent choices.</p>
                 </div>
               </div>
             </section>
@@ -285,32 +256,15 @@ export default function CookiesPage() {
             <section>
               <h2 className="text-2xl font-semibold mb-4">8. BUSINESS PURPOSE CLARIFICATION</h2>
               
-              <div className="space-y-6">
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">8.1 Consulting Business Focus</h3>
-                  <p className="mb-3">As a professional consulting firm, we use cookies solely for:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Website functionality and security</li>
-                    <li>Understanding our business audience</li>
-                    <li>Improving our service delivery</li>
-                    <li>Analyzing consultation request patterns</li>
-                  </ul>
-                </div>
+              <p className="mb-3">As an international firm, we use cookies and tracking technologies for:</p>
+              <ul className="list-disc pl-6 mb-4 space-y-1">
+                <li>Website functionality and security</li>
+                <li>Understanding our business audience</li>
+                <li>Marketing our services</li>
+                <li>Improving our service delivery</li>
+              </ul>
 
-                <div>
-                  <h3 className="text-xl font-semibold mb-3">8.2 No Advertising Platform Activities</h3>
-                  <div className="bg-muted/30 p-4 rounded-lg">
-                    <p className="font-semibold mb-2">We explicitly do not engage in:</p>
-                    <ul className="list-disc pl-6 space-y-1 text-sm">
-                      <li>Cross-site tracking</li>
-                      <li>Behavioral advertising</li>
-                      <li>Data sales to third parties</li>
-                      <li>Remarketing campaigns</li>
-                      <li>Ad network participation</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
+              <p className="mb-4">We use Google services including Analytics and Ads for our own business marketing and operations.</p>
             </section>
 
             <section>
