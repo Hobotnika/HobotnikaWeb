@@ -1,0 +1,354 @@
+# PRIVACY POLICY FOR HOBOTNIKA OÜ
+
+**Effective Date:** January 1, 2025  
+**Last Updated:** January 1, 2025
+
+## 1. Introduction and controller information
+
+Hobotnika OÜ ("we," "us," or "our") is committed to protecting your personal information and respecting your privacy. This Privacy Policy explains how we collect, use, disclose, and protect information when you visit our website, use our business consulting services, or interact with us through any channel.
+
+**Data Controller Details:**
+
+Hobotnika OÜ  
+Registry Code: 16770728  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Email: info@hobotnika.com  
+Phone: +351 933679097
+
+**Estonian Data Protection Contact:**
+
+Email: privacy@hobotnika.com  
+Phone: +351 933679097
+
+## 2. Scope and application
+
+This Privacy Policy applies to all personal data we process in our capacity as a data controller, including:
+
+- Information collected through our website and online forms
+- Data processed in connection with our business consulting services
+- Information gathered through professional business development activities
+- Data collected through website analytics for business improvement
+- Information managed in our Customer Relationship Management (CRM) systems
+
+This policy applies regardless of your location, though additional rights may apply based on your jurisdiction.
+
+## 3. Information we collect
+
+### 3.1 Information You Provide Directly
+When you request a consultation or engage our services, we collect:
+
+- **Contact Information**: Name, job title, company name, business email address, phone number
+- **Business Information**: Company details, industry sector, business challenges, project requirements
+- **Communication Data**: Content of emails, messages, and other communications with us
+- **Financial Information**: Billing address, payment details (processed securely by our payment processors)
+
+### 3.2 Information Collected Automatically
+When you visit our website, we automatically collect:
+
+- **Device and Browser Data**: IP address (anonymized for EU visitors), browser type, operating system, device identifiers
+- **Usage Information**: Pages visited, time spent on pages, clicks, referring website, exit pages
+- **Location Data**: Country and region (derived from anonymized IP address)
+- **Analytics Data**: Website interaction patterns for business improvement purposes
+
+### 3.3 Information from Third Parties
+We may receive information about you from:
+
+- **Business Partners**: Referrals and introductions from professional networks
+- **Public Sources**: Publicly available business directories and professional profiles
+- **Professional Networks**: LinkedIn and similar professional platforms (publicly available information only)
+
+## 4. Legal bases for processing
+
+We process your personal data based on the following legal grounds:
+
+### 4.1 Contract Performance (GDPR Article 6(1)(b))
+Processing necessary to provide our consulting services, including:
+- Responding to consultation requests
+- Delivering consulting services
+- Managing client relationships
+- Processing payments and invoices
+
+### 4.2 Legitimate Interests (GDPR Article 6(1)(f))
+We process data based on our legitimate business interests, including:
+- Professional business development to relevant prospects
+- Improving our services and website functionality
+- Ensuring network and information security
+- Preventing fraud and maintaining service quality
+- Internal business analytics and performance analysis
+
+We have conducted legitimate interest assessments to ensure our interests do not override your rights and freedoms.
+
+### 4.3 Consent (GDPR Article 6(1)(a))
+With your explicit consent for:
+- Professional communications where not based on legitimate interest
+- Non-essential website analytics
+- Sharing data with specific business partners
+
+### 4.4 Legal Obligations (GDPR Article 6(1)(c))
+To comply with:
+- Tax and accounting requirements
+- Anti-money laundering regulations
+- Court orders and legal proceedings
+- Regulatory reporting obligations
+
+## 5. How we use your information
+
+We use collected information for the following purposes:
+
+### 5.1 Service Delivery
+- Providing business consulting services
+- Managing client engagements and projects
+- Communicating about service delivery
+- Processing payments and maintaining accounts
+
+### 5.2 Business Development
+- Sending relevant information about our consulting services
+- Professional relationship management
+- Industry analysis and business intelligence
+- Understanding our market and service effectiveness
+
+### 5.3 Website and Technology Operations
+- Operating and improving our website
+- Analyzing website usage and performance for business purposes
+- Ensuring security and preventing fraud
+- Providing customer support
+
+### 5.4 Legal and Compliance
+- Complying with legal obligations
+- Defending legal claims
+- Maintaining business records
+- Conducting internal audits
+
+## 6. Website analytics and tracking technologies
+
+### 6.1 Analytics for Business Purposes
+We use Google Analytics solely for business intelligence purposes:
+
+**Strictly Business Analytics**
+- Understanding website usage patterns
+- Improving our service offerings
+- Analyzing consultation request sources
+- Optimizing website performance for business purposes
+
+**Data Collection Limitations**
+- IP anonymization enabled
+- Data retention limited to 14 months
+- No advertising features enabled
+- No data sharing with Google for advertising purposes
+- Demographics and interests reports disabled
+
+### 6.2 No Advertising or Marketing Tracking
+We explicitly do not engage in:
+- Cross-site tracking for advertising
+- Behavioral advertising
+- Data sales to third parties
+- Remarketing campaigns
+- Ad network participation
+
+### 6.3 Google Services Disclosures
+
+**Google Analytics**
+We use Google Analytics to analyze website usage for business improvement only. We have implemented IP anonymization, disabled advertising features, and configured appropriate retention periods. Learn more about how Google uses information from sites that use their services at www.google.com/policies/privacy/partners/
+
+**Google Consent Mode**
+For visitors from the EEA and UK, we implement Google Consent Mode, which adjusts how analytics behave based on consent status for analytics_storage only (advertising features are disabled).
+
+### 6.4 Managing Analytics Preferences
+**Opt-Out Options:**
+- Our cookie consent banner
+- Google Analytics Opt-out Browser Add-on: tools.google.com/dlpage/gaoptout
+- Browser settings to refuse cookies
+- Global Privacy Control: We honor GPC signals where legally required
+
+## 7. Data sharing and third parties
+
+### 7.1 Categories of Recipients
+We share personal data with:
+
+**Service Providers (Data Processors)**
+- Cloud storage and hosting services
+- Email and communication platforms
+- Payment processors
+- Website analytics providers (Google Analytics for business purposes only)
+- Customer relationship management systems
+
+**Professional Advisors**
+- Legal counsel
+- Accountants and auditors
+- Business consultants
+
+**Business Partners (Limited Sharing)**
+- Strategic consulting partners (with your consent)
+- Referral partners (introduction purposes only)
+- Joint service delivery partners (as joint controllers)
+
+**Legal and Regulatory**
+- Government authorities when required by law
+- Courts and law enforcement
+- Regulatory bodies
+
+### 7.2 International Data Transfers
+As an Estonian company serving global clients, we transfer data internationally:
+
+**From Americas to Estonia (EU)**
+- Transfers from the US rely on Standard Contractual Clauses or EU-US Data Privacy Framework
+- Transfers from Canada benefit from partial adequacy decision for PIPEDA-covered data
+- Transfers from Latin America use Standard Contractual Clauses with supplementary measures
+
+**From Estonia to Third Countries**
+- We ensure appropriate safeguards through adequacy decisions, SCCs, or specific derogations
+- Transfer impact assessments conducted for high-risk jurisdictions
+- Technical and organizational measures implemented to protect data during transfer
+
+## 8. Your privacy rights
+
+### 8.1 Rights Under GDPR (EU/UK Residents)
+You have the right to:
+- Access your personal data and receive a copy
+- Rectification of inaccurate or incomplete data
+- Erasure ("right to be forgotten") under certain circumstances
+- Restrict processing in specific situations
+- Data Portability to receive data in a structured format
+- Object to processing based on legitimate interests or direct marketing
+- Withdraw Consent at any time where processing is based on consent
+- Not be subject to solely automated decision-making
+
+### 8.2 Rights Under CCPA/CPRA (California Residents)
+You have the right to:
+- Know what personal information we collect, use, share
+- Access your personal information (twice annually free of charge)
+- Delete your personal information (with certain exceptions)
+- Correct inaccurate personal information
+- Non-Discrimination for exercising privacy rights
+
+**Important**: We do not sell or share personal information for cross-context behavioral advertising.
+
+### 8.3 Rights Under PIPEDA (Canadian Residents)
+You have the right to:
+- Access personal information we hold about you
+- Correct inaccuracies in your information
+- Withdraw Consent for certain processing activities
+- File a Complaint with the Office of the Privacy Commissioner
+
+### 8.4 Rights Under LGPD (Brazilian Residents)
+You have the right to:
+- Confirmation of processing and access to data
+- Correction of incomplete or inaccurate data
+- Anonymization, blocking, or deletion of unnecessary data
+- Portability to another service provider
+- Information about sharing with third parties
+- Revocation of consent
+
+### 8.5 Exercising Your Rights
+To exercise any of these rights, contact us at privacy@hobotnika.com. We will respond within the timeframes required by applicable law (generally within 30 days). We may request information to verify your identity before processing your request.
+
+## 9. Data retention
+
+We retain personal data for as long as necessary to fulfill the purposes outlined in this policy:
+
+- **Client Data**: Duration of engagement plus 7-10 years for legal and professional requirements
+- **Consultation Requests**: 3 years from last meaningful contact
+- **Business Contacts**: 3 years from last interaction, with annual review
+- **Financial Records**: 7 years for tax and accounting obligations
+- **Website Analytics**: 14 months maximum
+- **Legal Claims**: Until expiration of applicable limitation periods
+
+We regularly review and securely delete data that is no longer required.
+
+## 10. Data security
+
+We implement appropriate technical and organizational measures to protect personal data, including:
+
+**Technical Measures:**
+- Encryption of data in transit (TLS 1.3) and at rest (AES-256)
+- Multi-factor authentication for system access
+- Regular security assessments and penetration testing
+- Intrusion detection and prevention systems
+- Secure backup and disaster recovery procedures
+
+**Organizational Measures:**
+- Staff training on data protection and security
+- Access controls and role-based permissions
+- Confidentiality agreements with all personnel
+- Vendor due diligence and contractual protections
+- Incident response and breach notification procedures
+
+## 11. Data breach notification
+
+In the event of a personal data breach, we will:
+- Notify the Estonian Data Protection Inspectorate within 72 hours (if required)
+- Inform affected individuals without undue delay if the breach poses high risk to rights and freedoms
+- Document all breaches and maintain records for regulatory compliance
+- Implement measures to prevent future incidents
+
+For US residents, we comply with applicable state breach notification laws.
+
+## 12. Children's privacy
+
+Our services are intended for businesses and professionals. We do not knowingly collect personal data from individuals under 16 years of age (13 in Estonia for information society services). If we become aware of such collection, we will promptly delete the information.
+
+## 13. Third-party links
+
+Our website may contain links to third-party sites. We are not responsible for the privacy practices of these external sites. We encourage you to review their privacy policies before providing any personal information.
+
+## 14. Updates to this policy
+
+We may update this Privacy Policy to reflect changes in our practices or legal requirements. We will notify you of material changes by:
+- Posting a notice on our website
+- Sending an email to registered users
+- Obtaining consent where legally required
+
+The "Last Updated" date at the top indicates the most recent revision.
+
+## 15. Contact information and complaints
+
+### 15.1 Contact Us
+For questions about this Privacy Policy or our privacy practices:
+
+Email: privacy@hobotnika.com  
+Phone: +351 933679097  
+Mail: Hobotnika OÜ, Narva mnt 5, 10117 Tallinn, Estonia
+
+### 15.2 Supervisory Authorities
+You have the right to lodge a complaint with a data protection authority:
+
+**Estonian Data Protection Inspectorate**
+Tatari 39, 10134 Tallinn, Estonia  
+Email: info@aki.ee  
+Phone: +372 627 4135  
+Website: www.aki.ee
+
+**For Other Jurisdictions:**
+- EU/UK: Your local data protection authority
+- California: California Privacy Protection Agency (cppa.ca.gov)
+- Canada: Office of the Privacy Commissioner (priv.gc.ca)
+- Brazil: Autoridade Nacional de Proteção de Dados (gov.br/anpd)
+
+## 16. International users
+
+For users outside the EU, we aim to provide similar privacy protections. Contact privacy@hobotnika.com for any privacy-related requests.
+
+## 17. Business communications
+
+By requesting consultation or providing business contact information, you consent to receive information about our consulting services. All communications are for informational purposes only and do not constitute guarantees of results. You may opt-out at any time by:
+- Clicking the unsubscribe link in our emails
+- Emailing privacy@hobotnika.com
+- Calling +351 933679097
+
+For B2B communications to business contacts, we may also rely on legitimate interests where permitted by law.
+
+## 18. Data protection contact
+
+While not legally required to appoint a Data Protection Officer, we have designated a privacy contact to handle data protection matters:
+
+**Privacy Contact**
+Email: privacy@hobotnika.com  
+Phone: +351 933679097
+
+**Language Availability**: This Privacy Policy is available in Estonian upon request. Please contact privacy@hobotnika.com for the Estonian version.
+
+**Accessibility**: If you require this Privacy Policy in an alternative format for accessibility reasons, please contact us.
+
+---
+
+© 2025 Hobotnika OÜ. All rights reserved.
