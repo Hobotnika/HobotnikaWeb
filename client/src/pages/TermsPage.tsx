@@ -225,7 +225,7 @@ export default function TermsPage() {
                   <h3 className="text-lg font-medium mb-2">7.6 API Data Restrictions.</h3>
                   <p className="mb-2">Data accessed through third-party APIs will not be used for:</p>
                   <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Our own marketing beyond authorized client campaigns</li>
+                    <li>Our own marketing or advertising</li>
                     <li>Data sales or monetization beyond consulting services</li>
                     <li>Unauthorized access to client accounts</li>
                     <li>Building advertising profiles for non-client purposes</li>
@@ -574,7 +574,7 @@ export default function TermsPage() {
                       <h3 className="text-lg font-medium mb-2">7.6 API andmete piirangud.</h3>
                       <p className="mb-2">Kolmandate osapoolte API-de kaudu kätte saadud andmeid ei kasutata:</p>
                       <ul className="list-disc pl-6 mb-4 space-y-1">
-                        <li>Meie enda turundus peale volitatud kliendi kampaaniate</li>
+                        <li>Meie enda turundus või reklaam</li>
                         <li>Andmete müük või rahaksimuutmine peale konsultatsiooniteenuste</li>
                         <li>Volitamata juurdepääs kliendi kontodele</li>
                         <li>Reklaamiprofiilide loomine mitte-kliendi eesmärkidel</li>
