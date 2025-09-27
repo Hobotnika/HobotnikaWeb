@@ -1,0 +1,169 @@
+# TERMS OF SERVICE
+## HOBOTNIKA OÜ PROFESSIONAL CONSULTING SERVICES
+
+**Effective Date:** January 1, 2025  
+**Last Updated:** January 1, 2025
+
+These Terms of Service ("Terms") govern the provision of professional business consulting services by Hobotnika OÜ, a company registered in Estonia (registry code: 16770728) with its registered office at Narva mnt 5, 10117 Tallinn, Estonia ("Hobotnika," "we," "us," or "our") to our clients ("Client," "you," or "your").
+
+## 1. ACCEPTANCE OF TERMS
+
+**1.1 Agreement Formation.** By engaging our services, requesting a consultation, or executing a Statement of Work, you agree to be bound by these Terms. These Terms, together with any applicable Statement of Work ("SOW"), constitute the entire agreement between the parties.
+
+**1.2 Authority to Bind.** You represent and warrant that you have full corporate power and authority to enter into these Terms and that the person accepting these Terms on behalf of Client is authorized to bind Client.
+
+**1.3 Language.** These Terms are provided in English and Estonian. In case of discrepancy, the English version shall prevail for international clients unless otherwise agreed in writing.
+
+## 2. SERVICES
+
+**2.1 Scope of Services.** Hobotnika provides professional business consulting services including strategic planning, business development, process optimization, digital strategy, market analysis, and operational consulting as detailed in each SOW.
+
+**2.2 Service Delivery.** Services will be performed with professional competence and in accordance with applicable industry standards.
+
+**2.3 Project Management.** Each engagement will be governed by a SOW specifying:
+- Deliverables and success criteria
+- Timeline and milestones
+- Project team composition
+- Acceptance procedures
+- Change management process
+
+**2.4 Client Cooperation.** Client shall provide timely access to personnel, information, systems, and facilities reasonably required for service delivery. Delays in providing such cooperation may impact project timelines and costs.
+
+## 3. PAYMENT TERMS
+
+**3.1 Fees.** Client shall pay fees as specified in the applicable SOW. Unless otherwise specified, all fees are quoted in EUR and exclude applicable taxes.
+
+**3.2 Payment Schedule.** Invoices are issued monthly in arrears or upon milestone completion as specified in the SOW. Payment is due within thirty (30) days of invoice date.
+
+**3.3 Expenses.** Reasonable travel and out-of-pocket expenses incurred in connection with the services will be billed at cost with prior approval for expenses exceeding EUR 500.
+
+**3.4 Late Payment.** Overdue amounts bear interest at the rate of 0.8% per month or the maximum rate permitted by Estonian law, whichever is lower. We reserve the right to suspend services for accounts more than sixty (60) days overdue.
+
+**3.5 Taxes.** Client is responsible for all taxes, duties, and assessments associated with the services, excluding taxes based on Hobotnika's net income. For EU clients, reverse charge mechanism applies for VAT.
+
+## 4. INTELLECTUAL PROPERTY
+
+**4.1 Client Materials.** Client retains all rights to materials, data, and information provided to Hobotnika. We are granted a limited license to use Client materials solely for service delivery.
+
+**4.2 Deliverables.** Upon full payment, Client owns all rights to deliverables specifically created for Client under the SOW. This excludes Hobotnika's pre-existing intellectual property and methodologies.
+
+**4.3 Hobotnika Property.** We retain all rights to our pre-existing intellectual property, methodologies, know-how, tools, and techniques. Client receives a non-exclusive, perpetual license to use such materials solely in connection with the deliverables.
+
+**4.4 Feedback.** Any suggestions, feedback, or improvements provided by Client may be used by Hobotnika without restriction or compensation.
+
+**4.5 Residual Knowledge.** Hobotnika may use general knowledge, skills, and experience gained during the engagement, provided no Client confidential information is disclosed.
+
+## 5. CONFIDENTIALITY
+
+**5.1 Confidential Information.** Each party shall maintain the confidentiality of the other party's confidential information with the same degree of care used to protect its own confidential information, but no less than reasonable care.
+
+**5.2 Exceptions.** Confidentiality obligations do not apply to information that:
+- Is or becomes publicly available through no breach
+- Was rightfully known before disclosure
+- Is independently developed without use of confidential information
+- Must be disclosed by law or court order (with prompt notice to the disclosing party)
+
+**5.3 Duration.** Confidentiality obligations survive termination of these Terms for five (5) years, except for trade secrets which remain protected indefinitely.
+
+**5.4 Return of Materials.** Upon termination or request, each party shall return or destroy all confidential information of the other party, except as required for legal or compliance purposes.
+
+## 6. LIABILITY AND DISCLAIMERS
+
+**6.1 Nature of Services.** Services are advisory only. Client retains full responsibility for all business decisions, implementations, and outcomes. Hobotnika provides recommendations based on available information but makes no guarantees regarding results.
+
+**6.2 No Warranties.** HOBOTNIKA PROVIDES SERVICES "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+**6.3 Exclusion of Damages.** IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR PUNITIVE DAMAGES, LOST PROFITS, OR LOST BUSINESS OPPORTUNITIES, REGARDLESS OF THE THEORY OF LIABILITY.
+
+**6.4 Client Acknowledgment and Assumption of Risk.** Client acknowledges and agrees that:
+- All business decisions remain solely with Client
+- Client will independently evaluate all recommendations
+- Implementation of any advice is at Client's sole discretion and risk
+- Hobotnika's role is limited to providing information and analysis
+- Client has adequate expertise or will obtain independent verification before acting on recommendations
+
+**6.5 Client Indemnification.** Client shall indemnify and hold Hobotnika harmless from any claims, damages, losses, or expenses arising from:
+- Client's use or implementation of recommendations
+- Client's business operations or decisions
+- Third-party claims related to Client's business
+- Client-provided materials or information
+
+**6.6 Force Majeure.** Neither party is liable for delays or failures due to causes beyond reasonable control, including acts of God, pandemics, government actions, terrorism, or infrastructure failures. The affected party must promptly notify the other party and use reasonable efforts to mitigate impacts.
+
+## 7. DATA PROTECTION AND API USAGE
+
+**7.1 GDPR Compliance.** Both parties shall comply with the General Data Protection Regulation (EU) 2016/679 and applicable data protection laws. When processing personal data, parties act as independent controllers unless otherwise specified in a Data Processing Agreement.
+
+**7.2 Security Measures.** Hobotnika implements appropriate technical and organizational measures to protect personal data, including encryption, access controls, and regular security assessments.
+
+**7.3 International Transfers.** Any transfer of personal data outside the EEA will be subject to appropriate safeguards including Standard Contractual Clauses or adequacy decisions.
+
+**7.4 Data Breach.** In case of a personal data breach, the affected party shall notify the other party without undue delay and cooperate in any required notifications to supervisory authorities or data subjects.
+
+**7.5 Third-Party API Usage.** Hobotnika may use third-party APIs (including Google APIs) solely for legitimate business purposes related to consulting service delivery. Such usage is limited to:
+- Website analytics for business improvement
+- Client data management and project delivery
+- Internal business intelligence and performance analysis
+- Communication and collaboration tools for service delivery
+
+**7.6 API Data Restrictions.** Data accessed through third-party APIs will not be used for:
+- Advertising or marketing to non-clients
+- Cross-site tracking or behavioral profiling
+- Data sales or monetization beyond consulting services
+- Building advertising profiles or audience segments
+
+## 8. TERM AND TERMINATION
+
+**8.1 Term.** These Terms commence upon acceptance and continue until terminated. Individual SOWs may specify their own terms.
+
+**8.2 Termination for Convenience.** Either party may terminate an SOW upon thirty (30) days written notice. Client shall pay for all services performed and expenses incurred through the termination date.
+
+**8.3 Termination for Cause.** Either party may terminate immediately upon written notice if the other party:
+- Materially breaches and fails to cure within fifteen (15) days of notice
+- Becomes insolvent or subject to bankruptcy proceedings
+- Engages in illegal or unethical conduct
+
+**8.4 Survival.** Provisions relating to payment, confidentiality, intellectual property, liability, and dispute resolution survive termination.
+
+## 9. PROFESSIONAL STANDARDS
+
+**9.1 Compliance.** Hobotnika operates in compliance with Estonian law, EU regulations, and international consulting standards including adherence to professional ethics codes.
+
+**9.2 Conflicts of Interest.** Hobotnika will disclose any actual or potential conflicts of interest. We maintain policies to identify and manage conflicts appropriately.
+
+**9.3 Anti-Corruption.** Both parties shall comply with applicable anti-corruption laws including the Estonian Penal Code and UK Bribery Act where applicable.
+
+**9.4 Independent Contractor.** Hobotnika is an independent contractor. Nothing in these Terms creates an employment, agency, or partnership relationship.
+
+## 10. DISPUTE RESOLUTION
+
+**10.1 Governing Law.** These Terms are governed by Estonian law, excluding conflict of law provisions.
+
+**10.2 Negotiation.** Parties shall first attempt to resolve disputes through good faith negotiation between senior executives.
+
+**10.3 Arbitration.** Disputes not resolved within thirty (30) days shall be finally settled by arbitration under the Rules of the Arbitration Court of the Estonian Chamber of Commerce and Industry. The tribunal shall consist of one arbitrator, proceedings shall be in English, and the seat shall be Tallinn, Estonia.
+
+**10.4 Injunctive Relief.** Either party may seek injunctive relief in courts of competent jurisdiction for breaches of confidentiality or intellectual property provisions.
+
+**10.5 Attorneys' Fees.** The prevailing party in any dispute is entitled to recover reasonable attorneys' fees and costs.
+
+## 11. GENERAL PROVISIONS
+
+**11.1 Amendments.** These Terms may only be modified in writing signed by both parties.
+
+**11.2 Assignment.** Neither party may assign these Terms without prior written consent, except in connection with a merger or acquisition.
+
+**11.3 Severability.** If any provision is found unenforceable, the remainder continues in full effect.
+
+**11.4 Notices.** All notices must be in writing and delivered by email with confirmation or registered mail to the addresses specified in the SOW.
+
+**11.5 No Waiver.** Failure to enforce any provision does not constitute a waiver of that provision.
+
+**11.6 Entire Agreement.** These Terms and applicable SOWs constitute the entire agreement, superseding all prior agreements and understandings.
+
+## Contact Information:
+**Hobotnika OÜ**  
+Email: legal@hobotnika.com  
+Address: Narva mnt 5, 10117 Tallinn, Estonia  
+Phone: +351 933679097  
+Registry Code: 16770728
