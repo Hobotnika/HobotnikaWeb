@@ -277,7 +277,7 @@ export default function Contact() {
                     type="text"
                     value={formData.service}
                     onChange={(e) => handleInputChange("service", e.target.value)}
-                    placeholder="SEO, Social Media, Google Ads, etc."
+                    placeholder="SEO, Social Media, Digital Strategy, etc."
                     data-testid="input-service"
                   />
                 </div>

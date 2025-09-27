@@ -16,28 +16,28 @@ const services = [
     icon: Search,
     title: "SEO Optimization",
     description: "Comprehensive search engine optimization to improve your visibility in global markets.",
-    features: ["Keyword Research", "Technical SEO", "Content Optimization", "Local SEO"],
+    features: ["Search Strategy", "Technical Analysis", "Content Strategy", "Market Positioning"],
     popular: false
   },
   {
     icon: Share2,
     title: "Social Media Marketing",
     description: "Strategic social media presence that engages your global audience across all major platforms.",
-    features: ["Content Strategy", "Community Management", "Paid Social Ads", "Analytics & Reporting"],
+    features: ["Content Strategy", "Community Management", "Social Media Strategy", "Analytics & Reporting"],
     popular: true
   },
   {
     icon: PenTool,
     title: "Content Marketing",
     description: "High-quality content creation in multiple languages that drives engagement and conversions.",
-    features: ["Blog Writing", "Video Content", "Graphic Design", "Brand Storytelling"],
+    features: ["Content Strategy", "Brand Narrative", "Creative Direction", "Strategic Messaging"],
     popular: false
   },
   {
     icon: TrendingUp,
-    title: "Google Ads Management",
-    description: "Targeted advertising campaigns that maximize ROI and reach your ideal global customers.",
-    features: ["Campaign Setup", "Keyword Bidding", "Ad Copy Creation", "Performance Optimization"],
+    title: "Digital Advertising Strategy",
+    description: "Strategic advertising guidance that maximizes ROI and reaches your ideal global customers.",
+    features: ["Campaign Strategy", "Performance Optimization", "Strategic Planning", "Market Analysis"],
     popular: false
   },
   {

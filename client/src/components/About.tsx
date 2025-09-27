@@ -15,7 +15,7 @@ const features = [
   {
     icon: Target,
     title: "Integrated Approach",
-    description: "Simultaneous execution across SEO, social media, content marketing, and paid advertising for maximum impact."
+    description: "Simultaneous strategic guidance across SEO, social media, content marketing, and digital advertising for maximum impact."
   },
   {
     icon: Award,
