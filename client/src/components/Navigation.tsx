@@ -42,13 +42,15 @@ export default function Navigation() {
                 </span>
               </Link>
             ))}
-            <Button
-              variant="outline"
-              className="bg-transparent border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
-              data-testid="button-get-quote"
-            >
-              Get Quote
-            </Button>
+            <Link href="/contact" data-testid="link-get-quote">
+              <Button
+                variant="outline"
+                className="bg-transparent border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+                data-testid="button-get-quote"
+              >
+                Get Quote
+              </Button>
+            </Link>
           </div>
 
           {/* Mobile menu button */}
@@ -87,13 +89,16 @@ export default function Navigation() {
                   </span>
                 </Link>
               ))}
-              <Button
-                variant="outline"
-                className="mt-4 bg-transparent border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
-                data-testid="button-mobile-get-quote"
-              >
-                Get Quote
-              </Button>
+              <Link href="/contact" data-testid="link-mobile-get-quote">
+                <Button
+                  variant="outline"
+                  className="mt-4 bg-transparent border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary"
+                  data-testid="button-mobile-get-quote"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  Get Quote
+                </Button>
+              </Link>
             </div>
           </div>
         )}
