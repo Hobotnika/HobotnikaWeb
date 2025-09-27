@@ -587,7 +587,7 @@ export default function TermsPage() {
                   <h2 className="text-2xl font-semibold mb-4">Kontaktandmed</h2>
                   <div className="space-y-2">
                     <p className="font-semibold">Hobotnika OÜ</p>
-                    <p>E-post: <a href="mailto:legal@hobotnika.com" className="text-primary hover:underline">legal@hobotnika.com</a></p>
+                    <p>E-post: <a href="mailto:privacy@hobotnika.com" className="text-primary hover:underline">privacy@hobotnika.com</a></p>
                     <p>Aadress: Narva mnt 5, 10117 Tallinn, Eesti</p>
                     <p>Telefon: <a href="tel:+351933679097" className="text-primary hover:underline">+351 933679097</a></p>
                     <p>Registrikood: 16770728</p>
