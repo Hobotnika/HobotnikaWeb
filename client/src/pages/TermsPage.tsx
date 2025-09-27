@@ -225,11 +225,12 @@ export default function TermsPage() {
                   <h3 className="text-lg font-medium mb-2">7.6 API Data Restrictions.</h3>
                   <p className="mb-2">Data accessed through third-party APIs will not be used for:</p>
                   <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Our own marketing or advertising</li>
-                    <li>Data sales or monetization beyond consulting services</li>
-                    <li>Unauthorized access to client accounts</li>
-                    <li>Building advertising profiles for non-client purposes</li>
+                    <li>Accessing or managing client advertising accounts</li>
+                    <li>Providing advertising services to clients</li>
+                    <li>Data sales or monetization beyond company's services</li>
+                    <li>Building advertising profiles for third parties</li>
                   </ul>
+                  <p className="mb-4">We do not use APIs to access, manage, or operate any client accounts or systems.</p>
                 </div>
               </div>
             </section>
@@ -574,11 +575,12 @@ export default function TermsPage() {
                       <h3 className="text-lg font-medium mb-2">7.6 API andmete piirangud.</h3>
                       <p className="mb-2">Kolmandate osapoolte API-de kaudu kätte saadud andmeid ei kasutata:</p>
                       <ul className="list-disc pl-6 mb-4 space-y-1">
-                        <li>Meie enda turundus või reklaam</li>
-                        <li>Andmete müük või rahaksimuutmine peale konsultatsiooniteenuste</li>
-                        <li>Volitamata juurdepääs kliendi kontodele</li>
-                        <li>Reklaamiprofiilide loomine mitte-kliendi eesmärkidel</li>
+                        <li>Kliendi reklaamikontode ligipääsemiseks või haldamiseks</li>
+                        <li>Reklaamiteenuste osutamiseks klientidele</li>
+                        <li>Andmete müük või rahaksimuutmine peale ettevõtte teenuste</li>
+                        <li>Reklaamiprofiilide loomine kolmandate osapoolte jaoks</li>
                       </ul>
+                      <p className="mb-4">Me ei kasuta API-sid kliendi kontode või süsteemide ligipääsemiseks, haldamiseks või käitamiseks.</p>
                     </div>
                   </div>
                 </section>
