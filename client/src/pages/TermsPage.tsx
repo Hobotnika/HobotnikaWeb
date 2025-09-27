@@ -221,17 +221,6 @@ export default function TermsPage() {
                     <li>Internal marketing performance analysis and optimization</li>
                   </ul>
                 </div>
-                <div>
-                  <h3 className="text-lg font-medium mb-2">7.6 API Data Restrictions.</h3>
-                  <p className="mb-2">Data accessed through third-party APIs will not be used for:</p>
-                  <ul className="list-disc pl-6 mb-4 space-y-1">
-                    <li>Accessing or managing client advertising accounts</li>
-                    <li>Providing advertising services to clients</li>
-                    <li>Data sales or monetization beyond company's services</li>
-                    <li>Building advertising profiles for third parties</li>
-                  </ul>
-                  <p className="mb-4">We do not use APIs to access, manage, or operate any client accounts or systems.</p>
-                </div>
               </div>
             </section>
 
@@ -570,17 +559,6 @@ export default function TermsPage() {
                         <li>Meie enda äri turundus ja reklaamikampaaniad</li>
                         <li>Sisemine turunduse tulemuslikkuse analüüs ja optimeerimine</li>
                       </ul>
-                    </div>
-                    <div>
-                      <h3 className="text-lg font-medium mb-2">7.6 API andmete piirangud.</h3>
-                      <p className="mb-2">Kolmandate osapoolte API-de kaudu kätte saadud andmeid ei kasutata:</p>
-                      <ul className="list-disc pl-6 mb-4 space-y-1">
-                        <li>Kliendi reklaamikontode ligipääsemiseks või haldamiseks</li>
-                        <li>Reklaamiteenuste osutamiseks klientidele</li>
-                        <li>Andmete müük või rahaksimuutmine peale ettevõtte teenuste</li>
-                        <li>Reklaamiprofiilide loomine kolmandate osapoolte jaoks</li>
-                      </ul>
-                      <p className="mb-4">Me ei kasuta API-sid kliendi kontode või süsteemide ligipääsemiseks, haldamiseks või käitamiseks.</p>
                     </div>
                   </div>
                 </section>
