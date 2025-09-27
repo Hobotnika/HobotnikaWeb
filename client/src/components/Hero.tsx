@@ -18,13 +18,13 @@ export default function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6">
-            Custom IT Solutions &
-            <span className="block text-chart-3">Digital Infrastructure</span>
+            Digital Business
+            <span className="block text-chart-3">Consulting</span>
           </h1>
           
           <p className="text-xl md:text-2xl text-primary-foreground/90 mb-8 leading-relaxed">
-            We deliver enterprise-grade technical solutions including API integrations, 
-            custom software development, and digital infrastructure for businesses worldwide
+            We help businesses optimize operations, develop strategic initiatives, 
+            and achieve sustainable growth in today's competitive marketplace
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -35,7 +35,7 @@ export default function Hero() {
               data-testid="button-start-project"
               className="bg-chart-3 hover:bg-chart-3/90 text-primary border-0 px-8 py-3 text-lg font-semibold"
             >
-              Get Technical Consultation
+              Get Consultation
             </Button>
             <Button
               size="lg"

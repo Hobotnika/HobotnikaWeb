@@ -2,56 +2,56 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { 
-  Code, 
-  Laptop, 
-  Database, 
-  Cloud, 
-  Zap, 
+  Target, 
+  TrendingUp, 
+  BarChart, 
+  Search, 
+  Users, 
   Settings,
   Check
 } from "lucide-react";
 
 const services = [
   {
-    icon: Code,
-    title: "API Integration & Development",
-    description: "Custom API development and seamless integration solutions to connect your systems and enhance functionality.",
-    features: ["RESTful API Design", "Third-party Integrations", "Microservices Architecture", "API Documentation"],
+    icon: Target,
+    title: "Strategic Planning",
+    description: "Comprehensive strategic guidance to align your business objectives with market opportunities and growth initiatives.",
+    features: ["Goal Setting", "Strategic Framework", "Implementation Roadmap", "Performance Metrics"],
     popular: false
   },
   {
-    icon: Laptop,
-    title: "Custom Software Solutions",
-    description: "Tailored software development that meets your specific business requirements and workflows.",
-    features: ["Web Applications", "Desktop Software", "Mobile Apps", "System Integration"],
+    icon: TrendingUp,
+    title: "Business Development",
+    description: "Drive sustainable growth through market expansion, partnership development, and revenue optimization strategies.",
+    features: ["Market Expansion", "Partnership Strategy", "Revenue Growth", "Competitive Positioning"],
     popular: true
   },
   {
-    icon: Database,
-    title: "Database Management & Analytics",
-    description: "Comprehensive database design, optimization, and analytics solutions for data-driven insights.",
-    features: ["Database Design", "Performance Optimization", "Data Analytics", "Reporting Systems"],
-    popular: false
-  },
-  {
-    icon: Cloud,
-    title: "Cloud Infrastructure Setup",
-    description: "Scalable cloud architecture and infrastructure deployment for modern business operations.",
-    features: ["Cloud Migration", "Infrastructure Design", "Security Implementation", "Performance Monitoring"],
-    popular: false
-  },
-  {
-    icon: Zap,
-    title: "Business Process Automation",
-    description: "Streamline operations and increase efficiency through intelligent automation solutions.",
-    features: ["Workflow Automation", "Process Optimization", "Integration Solutions", "Performance Analytics"],
-    popular: false
-  },
-  {
     icon: Settings,
-    title: "Technical Consulting & Support",
-    description: "Expert technical guidance and ongoing support to optimize your technology infrastructure.",
-    features: ["System Architecture", "Technology Assessment", "Implementation Support", "Ongoing Maintenance"],
+    title: "Process Optimization",
+    description: "Streamline operations and enhance efficiency through systematic process improvement and workflow optimization.",
+    features: ["Workflow Analysis", "Efficiency Improvement", "Cost Reduction", "Quality Enhancement"],
+    popular: false
+  },
+  {
+    icon: BarChart,
+    title: "Digital Strategy",
+    description: "Navigate digital transformation with strategic guidance tailored to your industry and business objectives.",
+    features: ["Digital Transformation", "Technology Strategy", "Change Management", "Innovation Planning"],
+    popular: false
+  },
+  {
+    icon: Search,
+    title: "Market Analysis",
+    description: "In-depth market research and competitive analysis to inform strategic decisions and identify opportunities.",
+    features: ["Market Research", "Competitive Intelligence", "Industry Trends", "Risk Assessment"],
+    popular: false
+  },
+  {
+    icon: Users,
+    title: "Operational Consulting",
+    description: "Expert guidance on organizational structure, resource allocation, and operational excellence initiatives.",
+    features: ["Organizational Design", "Resource Planning", "Performance Management", "Operational Excellence"],
     popular: false
   }
 ];
@@ -69,8 +69,8 @@ export default function Services() {
             Our Services
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We deliver comprehensive IT solutions and technical expertise 
-            to transform your business operations and drive digital innovation.
+            We provide strategic consulting services designed to optimize 
+            business performance and drive sustainable growth across industries.
           </p>
         </div>
 

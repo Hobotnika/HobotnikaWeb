@@ -4,23 +4,23 @@ import { Brain, Users, Target, Award } from "lucide-react";
 const features = [
   {
     icon: Brain,
-    title: "Technical Excellence",
-    description: "We develop sophisticated technical solutions using cutting-edge technologies and industry best practices."
+    title: "Strategic Expertise",
+    description: "We provide strategic guidance and business intelligence to help organizations navigate complex challenges and opportunities."
   },
   {
     icon: Users,
-    title: "Global Expertise",
-    description: "Deep understanding of international business requirements and technical standards, with expertise across diverse industries."
+    title: "Global Experience",
+    description: "Deep understanding of international business environments and market dynamics across diverse industries and regions."
   },
   {
     icon: Target,
-    title: "Integrated Solutions",
-    description: "Comprehensive technical integration across APIs, databases, cloud infrastructure, and custom software systems."
+    title: "Integrated Approach",
+    description: "Comprehensive consulting methodology that addresses strategic, operational, and organizational aspects of business performance."
   },
   {
     icon: Award,
-    title: "Proven Delivery",
-    description: "Track record of delivering robust technical solutions that enhance operational efficiency and business performance."
+    title: "Proven Results",
+    description: "Track record of helping organizations achieve measurable improvements in performance, efficiency, and market position."
   }
 ];
 
@@ -33,9 +33,9 @@ export default function About() {
             About Hobotnika
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            We are a global technology solutions provider specializing in API integrations, 
-            custom software development, and digital infrastructure for businesses worldwide 
-            seeking reliable technical expertise.
+            We are a professional consulting firm helping businesses optimize operations 
+            and achieve growth objectives worldwide through strategic guidance and 
+            proven methodologies.
           </p>
         </div>
 
@@ -65,25 +65,25 @@ export default function About() {
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Technical Expertise:</strong> We understand enterprise technology requirements and system architecture
+                    <strong>Business Expertise:</strong> We understand complex business challenges and strategic requirements
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Scalable Solutions:</strong> Flexible technical architectures that grow and adapt with your business
+                    <strong>Adaptable Strategies:</strong> Flexible business strategies that evolve and grow with your organization
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Clear Documentation:</strong> Comprehensive technical documentation and transparent project communication
+                    <strong>Clear Communication:</strong> Transparent reporting and comprehensive project management throughout engagements
                   </p>
                 </div>
                 <div className="flex items-start space-x-3">
                   <div className="w-2 h-2 bg-chart-3 rounded-full mt-2 flex-shrink-0"></div>
                   <p className="text-card-foreground">
-                    <strong>Performance-Focused:</strong> Focus on measurable system improvements that enhance operational efficiency
+                    <strong>Results-Driven:</strong> Focus on measurable business outcomes that enhance organizational performance
                   </p>
                 </div>
               </div>
@@ -92,11 +92,11 @@ export default function About() {
             <div className="bg-muted/50 rounded-lg p-6">
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Mission</h4>
               <p className="text-card-foreground mb-6">
-                To empower businesses worldwide with robust technical solutions and digital infrastructure that enhance operational efficiency and support sustainable growth.
+                To empower businesses worldwide with strategic guidance and business solutions that enhance operational effectiveness and drive sustainable growth.
               </p>
               <h4 className="text-lg font-semibold text-foreground mb-4">Our Vision</h4>
               <p className="text-card-foreground">
-                To be the world's most trusted technology solutions provider, known for our technical excellence and unwavering commitment to delivering reliable systems.
+                To be the world's most trusted business consulting firm, known for our strategic expertise and unwavering commitment to client success.
               </p>
             </div>
           </div>

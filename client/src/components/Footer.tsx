@@ -36,8 +36,8 @@ export default function Footer() {
               </div>
               
               <p className="text-primary-foreground/80 mb-6 leading-relaxed">
-                Enterprise technology solutions provider delivering robust 
-                technical infrastructure and custom software worldwide.
+                Professional business consulting firm delivering strategic guidance 
+                and operational excellence to organizations worldwide.
               </p>
               
               <div className="space-y-3 text-sm">

@@ -20,7 +20,7 @@ const contactInfo = [
     icon: Building,
     label: "Company",
     value: "Hobotnika OÜ",
-    subvalue: "Enterprise Technology Solutions Provider"
+    subvalue: "Professional Business Consulting Firm"
   },
   {
     icon: MapPin,
@@ -134,8 +134,8 @@ export default function Contact() {
             Contact Us
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Ready to start your digital transformation? Get in touch with our team 
-            of technical experts and let's discuss how we can optimize your technology infrastructure.
+            Ready to optimize your business performance? Get in touch with our team 
+            of strategic consultants and let's discuss how we can help achieve your growth objectives.
           </p>
         </div>
 
@@ -172,7 +172,7 @@ export default function Contact() {
               <CardContent className="space-y-4">
                 <div className="flex items-center space-x-2">
                   <Badge variant="outline" className="text-xs">Global Expertise</Badge>
-                  <span className="text-sm text-muted-foreground">Enterprise technology expertise</span>
+                  <span className="text-sm text-muted-foreground">Business strategy expertise</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Badge variant="outline" className="text-xs">Proven Results</Badge>
@@ -273,7 +273,7 @@ export default function Contact() {
                     type="text"
                     value={formData.service}
                     onChange={(e) => handleInputChange("service", e.target.value)}
-                    placeholder="API Integration, Software Development, Cloud Setup, etc."
+                    placeholder="Strategic Planning, Business Development, Process Optimization, etc."
                     data-testid="input-service"
                   />
                 </div>
