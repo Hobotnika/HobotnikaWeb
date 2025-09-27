@@ -35,12 +35,6 @@ const contactInfo = [
     subvalue: "Response within 24 hours"
   },
   {
-    icon: Clock,
-    label: "Hours",
-    value: "24/7 Available",
-    subvalue: "All time zones covered"
-  },
-  {
     icon: Globe,
     label: "Languages",
     value: "Multi-lingual",

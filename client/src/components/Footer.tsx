@@ -51,14 +51,6 @@ export default function Footer() {
                 </div>
               </div>
               
-              <div className="flex space-x-2 mt-6">
-                <Badge variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground">
-                  24/7 Support
-                </Badge>
-                <Badge variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground">
-                  Est. 2023
-                </Badge>
-              </div>
             </div>
 
 
