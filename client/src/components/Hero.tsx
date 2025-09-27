@@ -62,8 +62,8 @@ export default function Hero() {
                   <div className="text-sm text-primary-foreground/90 font-medium">Years Experience</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary-foreground">24/7</div>
-                  <div className="text-sm text-primary-foreground/90 font-medium">Support</div>
+                  <div className="text-3xl font-bold text-primary-foreground">100%</div>
+                  <div className="text-sm text-primary-foreground/90 font-medium">Results Driven</div>
                 </div>
               </div>
             </div>
